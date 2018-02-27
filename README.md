@@ -10,7 +10,9 @@
   * [IDE](#ide)
   * [Linting](#linting)
   * [Runners](#runners)
+  * [Environments](#environments)
   * [Snapshot](#snapshot)
+  * [Migration](#migration)
 - [Resources](#resources)
 
 
@@ -45,7 +47,7 @@
 
 ### Migration
 
-- [jest-codemods](https://github.com/skovhus/jest-codemods) Makes it easy to migrate to/from Jest with other test runners.
+- [jest-codemods](https://github.com/skovhus/jest-codemods) Makes it easy to migrate from other test runner and frameworks to Jest.
 
 
 ## Resources
