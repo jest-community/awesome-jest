@@ -45,7 +45,7 @@
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md).
+Contributions welcome! Read the [contribution guidelines](/CONTRIBUTING.md).
 
 
 ## License
