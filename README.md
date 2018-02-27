@@ -19,7 +19,7 @@
 ### Matchers
 
 - [jest-extended](https://www.github.com/jest-community/jest-extended) Adds additional matchers to core API making it easy to test everything.
-- [expect-more](https://github.com/JamieMason/expect-more/tree/master/packages/expect-more-jest)
+- [expect-more](https://github.com/JamieMason/expect-more/tree/master/packages/expect-more-jest) A huge library of test matchers for a range of common use-cases.
 
 ### IDE
 
