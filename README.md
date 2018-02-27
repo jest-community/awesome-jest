@@ -6,12 +6,16 @@
 ## Contents
 
 - [Packages](#packages)
+  * [Matchers](#matchers)
 - [Resources](#resources)
 
 
 ## Packages
 
-- :( none yet feel free to add awesome packages
+### Matchers
+
+- [jest-extended](https://www.github.com/jest-community/jest-extended) Adds additional matchers to core API making it easy to test everything.
+
 
 ## Resources
 
