@@ -39,6 +39,10 @@
 - [snapshot-diff](https://www.github.com/jest-community/snapshot-diff) Takes two values, and return their difference as a string, ready to be snapshotted with toMatchSnapshot(). Especially helpful when testing the difference between different React component states.
 - [jest-snapshots-svg](https://www.github.com/jest-community/jest-snapshots-svg) Take a React component tree, and render it into an SVG.
 
+### Migration
+
+- [jest-codemods](https://github.com/skovhus/jest-codemods)
+
 
 ## Resources
 
