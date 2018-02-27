@@ -41,7 +41,7 @@
 
 ### Migration
 
-- [jest-codemods](https://github.com/skovhus/jest-codemods)
+- [jest-codemods](https://github.com/skovhus/jest-codemods) Makes it easy to migrate to/from Jest with other test runners.
 
 
 ## Resources
