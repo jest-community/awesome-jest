@@ -31,6 +31,7 @@
 ### Runners
 
 - [jest-runner-eslint](https://www.github.com/jest-community/jest-runner-eslint) ESLint runner for Jest.
+- [jest-environment-webdriver](https://github.com/alexeyraspopov/jest-webdriver) custom environment for WebDriver integration.
 
 ### Snapshot
 
