@@ -53,7 +53,7 @@
 
 ## Resources
 
-- :( none yet feel free to add awesome resources
+- [Jest cheat sheet](https://github.com/sapegin/jest-cheat-sheet).
 
 
 ## Contribute
