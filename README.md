@@ -19,6 +19,7 @@
 ### Matchers
 
 - [jest-extended](https://www.github.com/jest-community/jest-extended) Adds additional matchers to core API making it easy to test everything.
+- [expect-more](https://github.com/JamieMason/expect-more/tree/master/packages/expect-more-jest)
 
 ### IDE
 
@@ -31,6 +32,7 @@
 ### Runners
 
 - [jest-runner-eslint](https://www.github.com/jest-community/jest-runner-eslint) ESLint runner for Jest.
+- [jest-runner-mocha](https://github.com/rogeliog/jest-runner-mocha) Mocha runner for Jest.
 
 ### Snapshot
 
