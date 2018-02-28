@@ -10,6 +10,7 @@
   * [IDE](#ide)
   * [Linting](#linting)
   * [Runners](#runners)
+  * [Reporters](#reporters)
   * [Environments](#environments)
   * [Snapshot](#snapshot)
   * [Migration](#migration)
@@ -39,6 +40,11 @@
 - [jest-runner-eslint](https://www.github.com/jest-community/jest-runner-eslint) ESLint runner for Jest.
 - [jest-runner-mocha](https://github.com/rogeliog/jest-runner-mocha) Mocha runner for Jest.
 - [jest-runner-prettier](https://github.com/keplersj/jest-runner-prettier) Prettier runner for Jest.
+
+
+### Reporters
+
+- [jest-silent-reporter](https://github.com/rickhanlonii/jest-silent-reporter) A silent reporter for Jest.
 
 ### Environments
 
