@@ -27,7 +27,7 @@
 
 ### IDE
 
-- [vscode-jest](https://www.github.com/jest-community/vscode-jest) The optimal flow for Jest based testing in VS Code.
+- [vscode-jest](https://www.github.com/jest-community/vscode-jest) Works out of the box Jest based testing in VS Code.
 - [wallaby](https://github.com/wallabyjs/public/) The pinnacle of the idea of a test runner integrated into an editor.
 
 ### Linting
