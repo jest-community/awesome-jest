@@ -13,6 +13,7 @@
   * [Environments](#environments)
   * [Snapshot](#snapshot)
   * [Migration](#migration)
+  * [Library extensions](#library-extensions)
 - [Resources](#resources)
 
 
@@ -51,7 +52,7 @@
 
 - [jest-codemods](https://github.com/skovhus/jest-codemods) Makes it easy to migrate from other test runner and frameworks to Jest.
 
-### Library integrations
+### Library extensions
 
 - [testdouble-jest](https://github.com/testdouble/testdouble-jest) Support for [testdouble.js](https://github.com/testdouble/testdouble.js) for users of Jest.
 
