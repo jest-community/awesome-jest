@@ -14,6 +14,7 @@
   * [Snapshot](#snapshot)
   * [Migration](#migration)
   * [Library extensions](#library-extensions)
+  * [Mocks](#mocks)
 - [Resources](#resources)
 
 
@@ -58,6 +59,9 @@
 - [testdouble-jest](https://github.com/testdouble/testdouble-jest) Support for [testdouble.js](https://github.com/testdouble/testdouble.js) for users of Jest.
 - [jest-puppe-shots](https://github.com/macku/jest-puppe-shots) A Jest plugin for creating screenshots of [React](https://reactjs.org/) components with a little help of [Puppeteer](https://github.com/GoogleChrome/puppeteer)
 
+### Mocks
+
+- [jest-fetch-mock](https://github.com/jefflau/jest-fetch-mock) Easily mock out `fetch` and set up responses, powered by [Jest mock functions](https://facebook.github.io/jest/docs/en/mock-functions.html).
 
 ## Resources
 
