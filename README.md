@@ -15,6 +15,7 @@
   * [Snapshot](#snapshot)
   * [Migration](#migration)
   * [Library extensions](#library-extensions)
+  * [Mocks](#mocks)
 - [Resources](#resources)
 
 
@@ -67,6 +68,9 @@
 - [jest-each](https://www.github.com/mattphillips/jest-each) Allows tests to be writen once with multiple rows of data supplied to run the test multiple times.
 - [babel-jest-assertions](https://www.github.com/mattphillips/babel-jest-assertions) Babel plugin that automatically adds the number of assertions found in each test with `expect.assertions(n)` and `expect.hasAssertions()`.
 
+### Mocks
+
+- [jest-fetch-mock](https://github.com/jefflau/jest-fetch-mock) Easily mock out `fetch` and set up responses, powered by [Jest mock functions](https://facebook.github.io/jest/docs/en/mock-functions.html).
 
 ## Resources
 
