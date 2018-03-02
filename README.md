@@ -77,6 +77,7 @@
 ## Resources
 
 - [Jest cheat sheet](https://github.com/sapegin/jest-cheat-sheet).
+- [React Jest workshop](https://github.com/kentcdodds/react-jest-workshop).
 
 
 ## Contribute
