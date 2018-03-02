@@ -49,7 +49,7 @@
 
 ### Environments
 
-- [jest-environment-webdriver](https://github.com/alexeyraspopov/jest-webdriver) custom environment for WebDriver integration.
+- [jest-environment-webdriver](https://github.com/alexeyraspopov/jest-webdriver) Custom environment for WebDriver integration.
 
 ### Snapshot
 
