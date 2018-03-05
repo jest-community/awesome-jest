@@ -27,6 +27,8 @@
 - [expect-more](https://github.com/JamieMason/expect-more/tree/master/packages/expect-more-jest) A huge library of test matchers for a range of common use-cases.
 - [jest-axe](https://github.com/nickcolley/jest-axe) Custom Jest matcher for [aXe](https://axe-core.org/) for testing accessibility.
 - [jest-enzyme](https://github.com/FormidableLabs/enzyme-matchers/tree/master/packages/jest-enzyme) An assertion library for enzyme.
+- [jest-json-schema](https://github.com/americanexpress/jest-json-schema) JSON schema matcher
+- [expect-puppeteer](https://github.com/smooth-code/jest-puppeteer/tree/master/packages/expect-puppeteer) Collection of matchers for Jest & Puppeteer
 
 ### IDE
 
@@ -50,7 +52,8 @@
 
 ### Environments
 
-- [jest-environment-webdriver](https://github.com/alexeyraspopov/jest-webdriver) Custom environment for WebDriver integration.
+- [jest-environment-webdriver](https://github.com/alexeyraspopov/jest-webdriver) custom environment for WebDriver integration.
+- [jest-environment-puppeteer](https://github.com/smooth-code/jest-puppeteer/tree/master/packages/jest-environment-puppeteer) Puppeteer environment for Jest.
 
 ### Snapshot
 
@@ -70,6 +73,7 @@
 - [jest-puppe-shots](https://github.com/macku/jest-puppe-shots) A Jest plugin for creating screenshots of [React](https://reactjs.org/) components with a little help of [Puppeteer](https://github.com/GoogleChrome/puppeteer)
 - [jest-each](https://www.github.com/mattphillips/jest-each) Allows tests to be writen once with multiple rows of data supplied to run the test multiple times.
 - [babel-jest-assertions](https://www.github.com/mattphillips/babel-jest-assertions) Babel plugin that automatically adds the number of assertions found in each test with `expect.assertions(n)` and `expect.hasAssertions()`.
+- [jest-puppeteer](https://github.com/smooth-code/jest-puppeteer) A Jest preset that enables a ready-to-use environment to write integration tests using Puppeteer.
 
 ### Mocks
 
