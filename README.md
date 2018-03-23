@@ -11,6 +11,7 @@
   * [Linting](#linting)
   * [Runners](#runners)
   * [Reporters](#reporters)
+  * [Results Processors](#results-processors)
   * [Environments](#environments)
   * [Snapshot](#snapshot)
   * [Migration](#migration)
@@ -45,11 +46,13 @@
 - [jest-runner-mocha](https://github.com/rogeliog/jest-runner-mocha) Mocha runner for Jest.
 - [jest-runner-prettier](https://github.com/keplersj/jest-runner-prettier) Prettier runner for Jest.
 
-
 ### Reporters
 
 - [jest-silent-reporter](https://github.com/rickhanlonii/jest-silent-reporter) A silent reporter for Jest.
 - [jest-skipped-reporter](https://github.com/rickhanlonii/jest-skipped-reporter) Report skipped tests in Jest.
+
+### Results Processors
+- [jest-stare](https://github.com/dkelosky/jest-stare) Configurable HTML results processor for filtering, side-by-side snapshot diffs, API, and simple CLI.
 
 ### Environments
 
