@@ -52,7 +52,7 @@
 - [jest-skipped-reporter](https://github.com/rickhanlonii/jest-skipped-reporter) Report skipped tests in Jest.
 
 ### Results Processors
-- [jest-stare](https://github.com/dkelosky/jest-stare) HTML results viewer for Jest.
+- [jest-stare](https://github.com/dkelosky/jest-stare) HTML results viewer filters on passing or failing tests, saves raw JSON test results, and shows side-by-side snapshot diffs.
 
 ### Environments
 
