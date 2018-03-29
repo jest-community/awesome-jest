@@ -83,6 +83,7 @@
 ### Mocks
 
 - [jest-fetch-mock](https://github.com/jefflau/jest-fetch-mock) Easily mock out `fetch` and set up responses, powered by [Jest mock functions](https://facebook.github.io/jest/docs/en/mock-functions.html).
+- [jest-canvas-mock](https://github.com/hustcc/jest-canvas-mock) Mock canvas when run unit test cases with jest.
 
 ## Resources
 
