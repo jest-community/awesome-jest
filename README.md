@@ -45,6 +45,7 @@
 - [jest-runner-eslint](https://www.github.com/jest-community/jest-runner-eslint) ESLint runner for Jest.
 - [jest-runner-mocha](https://github.com/rogeliog/jest-runner-mocha) Mocha runner for Jest.
 - [jest-runner-prettier](https://github.com/keplersj/jest-runner-prettier) Prettier runner for Jest.
+- [jest-electron-runner](https://github.com/d4rkr00t/jest-electron-runner) Electron runner for Jest.
 
 ### Reporters
 
