@@ -53,6 +53,8 @@
 - [jest-skipped-reporter](https://github.com/rickhanlonii/jest-skipped-reporter) Report skipped tests in Jest.
 
 ### Results Processors
+
+- [majestic](https://github.com/Raathigesh/majestic) Zero config UI for Jest.
 - [jest-stare](https://github.com/dkelosky/jest-stare) Configurable HTML results processor for filtering, side-by-side snapshot diffs, API, and simple CLI.
 
 ### Environments
