@@ -69,6 +69,7 @@
 - [jest-image-snapshot](https://github.com/americanexpress/jest-image-snapshot) Take a snapshot test of an image buffer, and catch when the image changes over a threshold. Commonly used for visual regression testing.
 - [enzyme-to-json](https://github.com/adriantoine/enzyme-to-json) Convert Enzyme wrappers to a format compatible with Jest snapshot testing.
 - [jest-styled-components](https://github.com/styled-components/jest-styled-components) A set of utilities for testing Styled Components with Jest.
+- [jest-img-snapshot](https://github.com/donysukardi/jest-img-snapshot) Image snapshot comparision using pixelmatch with all Jest's snapshot goodies out of the box.
 
 ### Migration
 
