@@ -30,6 +30,7 @@
 - [jest-enzyme](https://github.com/FormidableLabs/enzyme-matchers/tree/master/packages/jest-enzyme) An assertion library for enzyme.
 - [jest-json-schema](https://github.com/americanexpress/jest-json-schema) JSON schema matcher.
 - [expect-puppeteer](https://github.com/smooth-code/jest-puppeteer/tree/master/packages/expect-puppeteer) Collection of matchers for Jest & Puppeteer.
+- [jest-dom](https://github.com/gnapse/jest-dom) Custom Jest matchers to test the dom structure.
 
 ### IDE
 
