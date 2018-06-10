@@ -90,6 +90,9 @@
 
 - [jest-fetch-mock](https://github.com/jefflau/jest-fetch-mock) Easily mock out `fetch` and set up responses, powered by [Jest mock functions](https://facebook.github.io/jest/docs/en/mock-functions.html).
 - [jest-canvas-mock](https://github.com/hustcc/jest-canvas-mock) Mock canvas when run unit test cases with jest.
+- [jest-localstorage-mock](https://github.com/clarkbw/jest-localstorage-mock) A module to mock window.localStorage and window.sessionStorage in Jest.
+- [jest-date-mock](https://github.com/hustcc/jest-date-mock) Mock `window.Date` when run unit test cases with jest. Make tests of Date easier.
+
 
 ## Resources
 
