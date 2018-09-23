@@ -86,6 +86,7 @@
 - [jest-puppeteer](https://github.com/smooth-code/jest-puppeteer) A Jest preset that enables a ready-to-use environment to write integration tests using Puppeteer.
 - [typescript-snapshots-plugin](https://github.com/asvetliakov/typescript-snapshots-plugin) Extends the TypeScript dev server to support hovering and jumping to a snapshot.
 - [jest-chain](https://github.com/mattphillips/jest-chain) Chain Jest matchers together to create one powerful assertion.
+- [jest-expect-message](https://github.com/mattphillips/jest-expect-message) Add custom message to Jest expects.
 
 ### Mocks
 
