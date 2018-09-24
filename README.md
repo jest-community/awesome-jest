@@ -17,6 +17,7 @@
   * [Migration](#migration)
   * [Library extensions](#library-extensions)
   * [Mocks](#mocks)
+  * [Watch Plugins](#watch-plugins)
 - [Resources](#resources)
 
 
@@ -95,6 +96,9 @@
 - [jest-localstorage-mock](https://github.com/clarkbw/jest-localstorage-mock) A module to mock window.localStorage and window.sessionStorage in Jest.
 - [jest-date-mock](https://github.com/hustcc/jest-date-mock) Mock `window.Date` when run unit test cases with jest. Make tests of Date easier.
 
+### Watch plugins
+
+- [jest-watch-suspend](https://github.com/unional/jest-watch-suspend) Suspend watch mode so that your changes would not trigger test runs.
 
 ## Resources
 
