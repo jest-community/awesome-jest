@@ -105,6 +105,7 @@
 - [jest-watch-toggle-config](https://github.com/jest-community/jest-watch-toggle-config) Toggle boolean settings (e.g. verbosity, test coverage).
 - [jest-watch-typeahead](https://github.com/jest-community/jest-watch-typeahead) Filter your tests by file name or test name.
 - [jest-watch-yarn-workspaces](https://github.com/cameronhunter/jest-watch-directories/tree/master/packages/jest-watch-yarn-workspaces) Select Yarn workspaces to test
+- [jest-watch-master](https://github.com/rickhanlonii/jest-watch-master) Check changes since master
 
 ## Resources
 
