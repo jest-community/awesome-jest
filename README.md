@@ -54,6 +54,7 @@
 
 - [jest-silent-reporter](https://github.com/rickhanlonii/jest-silent-reporter) A silent reporter for Jest.
 - [jest-skipped-reporter](https://github.com/rickhanlonii/jest-skipped-reporter) Report skipped tests in Jest.
+- [jest-html-reporter](https://github.com/Hargne/jest-html-reporter)  A Jest test results processor for generating a summary in HTML. 
 
 ### Results Processors
 
