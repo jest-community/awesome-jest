@@ -90,6 +90,7 @@
 - [typescript-snapshots-plugin](https://github.com/asvetliakov/typescript-snapshots-plugin) Extends the TypeScript dev server to support hovering and jumping to a snapshot.
 - [jest-chain](https://github.com/mattphillips/jest-chain) Chain Jest matchers together to create one powerful assertion.
 - [jest-expect-message](https://github.com/mattphillips/jest-expect-message) Add custom message to Jest expects.
+- [jest-nunjucks](https://github.com/denar90/jest-nunjucks) Processor that compiles nunjucks templates.
 
 ### Mocks
 
