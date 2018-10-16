@@ -18,6 +18,7 @@
   * [Library extensions](#library-extensions)
   * [Mocks](#mocks)
   * [Watch Plugins](#watch-plugins)
+  * [Processor](#processor)
 - [Resources](#resources)
 
 
@@ -90,7 +91,6 @@
 - [typescript-snapshots-plugin](https://github.com/asvetliakov/typescript-snapshots-plugin) Extends the TypeScript dev server to support hovering and jumping to a snapshot.
 - [jest-chain](https://github.com/mattphillips/jest-chain) Chain Jest matchers together to create one powerful assertion.
 - [jest-expect-message](https://github.com/mattphillips/jest-expect-message) Add custom message to Jest expects.
-- [jest-nunjucks](https://github.com/denar90/jest-nunjucks) Processor that compiles nunjucks templates.
 
 ### Mocks
 
@@ -109,6 +109,12 @@
 - [jest-watch-typeahead](https://github.com/jest-community/jest-watch-typeahead) Filter your tests by file name or test name.
 - [jest-watch-yarn-workspaces](https://github.com/cameronhunter/jest-watch-directories/tree/master/packages/jest-watch-yarn-workspaces) Select Yarn workspaces to test.
 - [jest-watch-master](https://github.com/rickhanlonii/jest-watch-master) Check changes since master.
+
+### Processor
+
+- [jest-nunjucks](https://github.com/denar90/jest-nunjucks) Processor that compiles nunjucks templates.
+- [ts-jest](https://github.com/kulshekhar/ts-jest) TypeScript preprocessor with sourcemap support.
+- [vue-jest](https://github.com/vuejs/vue-jest) Vue transformer with source map support.
 
 ## Resources
 
