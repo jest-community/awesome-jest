@@ -75,6 +75,7 @@
 - [enzyme-to-json](https://github.com/adriantoine/enzyme-to-json) Convert Enzyme wrappers to a format compatible with Jest snapshot testing.
 - [jest-styled-components](https://github.com/styled-components/jest-styled-components) A set of utilities for testing Styled Components with Jest.
 - [jest-img-snapshot](https://github.com/donysukardi/jest-img-snapshot) Image snapshot comparision using pixelmatch with all Jest's snapshot goodies out of the box.
+- [jest-file-snapshot](https://github.com/satya164/jest-file-snapshot) Write snapshots to a separate file instead of the default snapshot file used by Jest.
 - [Differencify](https://github.com/NimaSoroush/differencify) Visual regression testing tool using Jest and Puppeteer to do Image snapshot comparision.
 
 ### Migration
