@@ -104,6 +104,7 @@
 
 - [jest-watch-directories](https://github.com/cameronhunter/jest-watch-directories/tree/master/packages/jest-watch-directories) Select directories to test.
 - [jest-watch-lerna-packages](https://github.com/cameronhunter/jest-watch-directories/blob/master/packages/jest-watch-lerna-packages) Select Lerna packages to test.
+- [jest-watch-repeat](https://github.com/unional/jest-watch-repeat) Repeat test runs multiple times.
 - [jest-watch-select-projects](https://github.com/rogeliog/jest-watch-select-projects) Select which Jest projects to run.
 - [jest-watch-suspend](https://github.com/unional/jest-watch-suspend) Suspend watch mode so that your changes would not trigger test runs.
 - [jest-watch-toggle-config](https://github.com/jest-community/jest-watch-toggle-config) Toggle boolean settings (e.g. verbosity, test coverage).
