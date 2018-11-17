@@ -33,6 +33,7 @@
 - [jest-json-schema](https://github.com/americanexpress/jest-json-schema) JSON schema matcher.
 - [expect-puppeteer](https://github.com/smooth-code/jest-puppeteer/tree/master/packages/expect-puppeteer) Collection of matchers for Jest & Puppeteer.
 - [jest-dom](https://github.com/gnapse/jest-dom) Custom Jest matchers to test the dom structure.
+- [jest-generator](https://github.com/doniyor2109/jest-generator) Jest matcher for testing generator function.
 
 ### IDE
 
