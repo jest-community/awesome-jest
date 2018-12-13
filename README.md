@@ -60,6 +60,7 @@
 - [jest-stare](https://github.com/dkelosky/jest-stare) Configurable HTML reporter for filtering, side-by-side snapshot diffs, API, and simple CLI.
 
 ### Results Processors
+
 - [majestic](https://github.com/Raathigesh/majestic) Zero config UI for Jest.
 
 ### Environments
