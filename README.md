@@ -56,12 +56,11 @@
 
 - [jest-silent-reporter](https://github.com/rickhanlonii/jest-silent-reporter) A silent reporter for Jest.
 - [jest-skipped-reporter](https://github.com/rickhanlonii/jest-skipped-reporter) Report skipped tests in Jest.
-- [jest-html-reporter](https://github.com/Hargne/jest-html-reporter)  A Jest test results processor for generating a summary in HTML. 
+- [jest-html-reporter](https://github.com/Hargne/jest-html-reporter)  A Jest test results processor for generating a summary in HTML.
+- [jest-stare](https://github.com/dkelosky/jest-stare) Configurable HTML reporter for filtering, side-by-side snapshot diffs, API, and simple CLI.
 
 ### Results Processors
-
 - [majestic](https://github.com/Raathigesh/majestic) Zero config UI for Jest.
-- [jest-stare](https://github.com/dkelosky/jest-stare) Configurable HTML results processor for filtering, side-by-side snapshot diffs, API, and simple CLI.
 
 ### Environments
 
