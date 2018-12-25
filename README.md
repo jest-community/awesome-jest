@@ -55,6 +55,8 @@
 ### Reporters
 
 - [jest-silent-reporter](https://github.com/rickhanlonii/jest-silent-reporter) A silent reporter for Jest.
+- [jest-junit](https://github.com/jest-community/jest-junit) A JUnit format reporter for Jest which can integrate with CI systems.
+- [jest-xunit](https://github.com/sscaff1/jest-xunit) An xUnit format reporter for Jest.
 - [jest-skipped-reporter](https://github.com/rickhanlonii/jest-skipped-reporter) Report skipped tests in Jest.
 - [jest-html-reporter](https://github.com/Hargne/jest-html-reporter)  A Jest test results processor for generating a summary in HTML.
 - [jest-stare](https://github.com/dkelosky/jest-stare) Configurable HTML reporter for filtering, side-by-side snapshot diffs, API, and simple CLI.
