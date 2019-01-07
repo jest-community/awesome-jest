@@ -97,6 +97,7 @@
 - [typescript-snapshots-plugin](https://github.com/asvetliakov/typescript-snapshots-plugin) Extends the TypeScript dev server to support hovering and jumping to a snapshot.
 - [jest-chain](https://github.com/mattphillips/jest-chain) Chain Jest matchers together to create one powerful assertion.
 - [jest-expect-message](https://github.com/mattphillips/jest-expect-message) Add custom message to Jest expects.
+- [@bigtest/interactor](https://www.bigtestjs.io/guides/interactors/introduction/) Composable Page Objects for component based applications. Checkout the [documentation](https://www.bigtestjs.io/guides/interactors/introduction/) and [blog post](https://medium.com/@robdel12/jest-bigtest-interactor-component-test-%EF%B8%8F-11b1947954c8) about using with Jest.
 
 ### Mocks
 
