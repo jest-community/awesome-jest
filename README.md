@@ -82,6 +82,7 @@
 - [jest-img-snapshot](https://github.com/donysukardi/jest-img-snapshot) Image snapshot comparision using pixelmatch with all Jest's snapshot goodies out of the box.
 - [jest-file-snapshot](https://github.com/satya164/jest-file-snapshot) Write snapshots to a separate file instead of the default snapshot file used by Jest.
 - [Differencify](https://github.com/NimaSoroush/differencify) Visual regression testing tool using Jest and Puppeteer to do Image snapshot comparision.
+- [StoryShots](https://github.com/storybooks/storybook/tree/master/addons/storyshots/storyshots-core) StoryShots adds automatic Jest Snapshot Testing for Storybook.
 
 ### Migration
 
