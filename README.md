@@ -125,6 +125,7 @@
 - [jest-nunjucks](https://github.com/denar90/jest-nunjucks) Processor that compiles nunjucks templates.
 - [ts-jest](https://github.com/kulshekhar/ts-jest) TypeScript preprocessor with sourcemap support.
 - [vue-jest](https://github.com/vuejs/vue-jest) Vue transformer with source map support.
+- [marko-jest](https://github.com/abiyasa/marko-jest) Processor for [Marko component](https://markojs.com/).
 
 ## Resources
 
