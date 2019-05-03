@@ -34,6 +34,7 @@
 - [expect-puppeteer](https://github.com/smooth-code/jest-puppeteer/tree/master/packages/expect-puppeteer) Collection of matchers for Jest & Puppeteer.
 - [jest-dom](https://github.com/gnapse/jest-dom) Custom Jest matchers to test the dom structure.
 - [jest-generator](https://github.com/doniyor2109/jest-generator) Jest matcher for testing generator function.
+- [jest-shell-matchers](https://github.com/raingerber/jest-shell-matchers) Test shell scripts while mocking specific commands.
 
 ### IDE
 
@@ -62,6 +63,8 @@
 - [jest-stare](https://github.com/dkelosky/jest-stare) Configurable HTML reporter for filtering, side-by-side snapshot diffs, API, and simple CLI.
 - [jest-slow-test-reporter](https://github.com/jodonnell/jest-slow-test-reporter) Prints the slowest tests in your codebase.
 - [jest-simple-dot-reporter](https://github.com/jodonnell/jest-simple-dot-reporter) A simple dot reporter.
+- [jest-html-reporters](https://github.com/Hazyzh/jest-html-reporters) A Jest test results processor for generating a summary in HTML.
+- [jest-allure](https://github.com/zaqqaz/jest-allure) Add more power to your tests using Jest-Allure with very concise representation of what has been tested in a neat web report form.
 - [jest-standard-reporter](https://github.com/chrisgalvan/jest-standard-reporter) Reporter that uses stdout for messages and stderr for errors
 
 ### Results Processors
