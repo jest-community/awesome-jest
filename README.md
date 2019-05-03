@@ -62,6 +62,7 @@
 - [jest-stare](https://github.com/dkelosky/jest-stare) Configurable HTML reporter for filtering, side-by-side snapshot diffs, API, and simple CLI.
 - [jest-slow-test-reporter](https://github.com/jodonnell/jest-slow-test-reporter) Prints the slowest tests in your codebase.
 - [jest-simple-dot-reporter](https://github.com/jodonnell/jest-simple-dot-reporter) A simple dot reporter.
+- [jest-standard-reporter](https://github.com/chrisgalvan/jest-standard-reporter) Reporter that uses stdout for messages and stderr for errors
 
 ### Results Processors
 
