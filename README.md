@@ -104,6 +104,7 @@
 - [jest-chain](https://github.com/mattphillips/jest-chain) Chain Jest matchers together to create one powerful assertion.
 - [jest-expect-message](https://github.com/mattphillips/jest-expect-message) Add custom message to Jest expects.
 - [@bigtest/interactor](https://www.bigtestjs.io/guides/interactors/introduction/) Composable Page Objects for component based applications. Checkout the [documentation](https://www.bigtestjs.io/guides/interactors/introduction/) and [blog post](https://medium.com/@robdel12/jest-bigtest-interactor-component-test-%EF%B8%8F-11b1947954c8) about using with Jest.
+- [@testdeck/jest](https://github.com/testdeck/testdeck/) Decorator based wrapper around Jest for object oriented testing. Checkout the [documentation](https://testdeck.org) and a working [seed](https://github.com/testdeck/testdeck-jest-seed) for you to start with.
 
 ### Mocks
 
