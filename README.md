@@ -133,6 +133,7 @@
 - [ts-jest](https://github.com/kulshekhar/ts-jest) TypeScript preprocessor with sourcemap support.
 - [vue-jest](https://github.com/vuejs/vue-jest) Vue transformer with source map support.
 - [marko-jest](https://github.com/abiyasa/marko-jest) Processor for [Marko component](https://markojs.com/).
+- [awesome-pug-jest](https://github.com/iketari/awesome-pug-jest) Processor for [Pug/Jade](https://pugjs.org/)
 
 ## Resources
 
