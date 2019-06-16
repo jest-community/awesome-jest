@@ -88,6 +88,7 @@
 - [jest-file-snapshot](https://github.com/satya164/jest-file-snapshot) Write snapshots to a separate file instead of the default snapshot file used by Jest.
 - [Differencify](https://github.com/NimaSoroush/differencify) Visual regression testing tool using Jest and Puppeteer to do Image snapshot comparision.
 - [StoryShots](https://github.com/storybooks/storybook/tree/master/addons/storyshots/storyshots-core) StoryShots adds automatic Jest Snapshot Testing for Storybook.
+- [jest-large-snapshot-warning](https://github.com/jomaxx/jest-large-snapshot-warning) Add warnings to large snapshots.
 
 ### Migration
 
