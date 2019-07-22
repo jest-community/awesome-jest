@@ -84,9 +84,9 @@
 - [jest-image-snapshot](https://github.com/americanexpress/jest-image-snapshot) Take a snapshot test of an image buffer, and catch when the image changes over a threshold. Commonly used for visual regression testing.
 - [enzyme-to-json](https://github.com/adriantoine/enzyme-to-json) Convert Enzyme wrappers to a format compatible with Jest snapshot testing.
 - [jest-styled-components](https://github.com/styled-components/jest-styled-components) A set of utilities for testing Styled Components with Jest.
-- [jest-img-snapshot](https://github.com/donysukardi/jest-img-snapshot) Image snapshot comparision using pixelmatch with all Jest's snapshot goodies out of the box.
+- [jest-img-snapshot](https://github.com/donysukardi/jest-img-snapshot) Image snapshot comparison using pixelmatch with all Jest's snapshot goodies out of the box.
 - [jest-file-snapshot](https://github.com/satya164/jest-file-snapshot) Write snapshots to a separate file instead of the default snapshot file used by Jest.
-- [Differencify](https://github.com/NimaSoroush/differencify) Visual regression testing tool using Jest and Puppeteer to do Image snapshot comparision.
+- [Differencify](https://github.com/NimaSoroush/differencify) Visual regression testing tool using Jest and Puppeteer to do Image snapshot comparison.
 - [StoryShots](https://github.com/storybooks/storybook/tree/master/addons/storyshots/storyshots-core) StoryShots adds automatic Jest Snapshot Testing for Storybook.
 - [jest-large-snapshot-warning](https://github.com/jomaxx/jest-large-snapshot-warning) Add warnings to large snapshots.
 
@@ -98,7 +98,7 @@
 
 - [testdouble-jest](https://github.com/testdouble/testdouble-jest) Support for [testdouble.js](https://github.com/testdouble/testdouble.js) for users of Jest.
 - [jest-puppe-shots](https://github.com/macku/jest-puppe-shots) A Jest plugin for creating screenshots of [React](https://reactjs.org/) components with a little help of [Puppeteer](https://github.com/GoogleChrome/puppeteer).
-- [jest-each](https://www.github.com/mattphillips/jest-each) Allows tests to be writen once with multiple rows of data supplied to run the test multiple times.
+- [jest-each](https://www.github.com/mattphillips/jest-each) Allows tests to be written once with multiple rows of data supplied to run the test multiple times.
 - [babel-jest-assertions](https://www.github.com/mattphillips/babel-jest-assertions) Babel plugin that automatically adds the number of assertions found in each test with `expect.assertions(n)` and `expect.hasAssertions()`.
 - [jest-puppeteer](https://github.com/smooth-code/jest-puppeteer) A Jest preset that enables a ready-to-use environment to write integration tests using Puppeteer.
 - [typescript-snapshots-plugin](https://github.com/asvetliakov/typescript-snapshots-plugin) Extends the TypeScript dev server to support hovering and jumping to a snapshot.
