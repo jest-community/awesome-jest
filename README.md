@@ -67,6 +67,7 @@
 - [jest-html-reporters](https://github.com/Hazyzh/jest-html-reporters) A Jest test results processor for generating a summary in HTML.
 - [jest-allure](https://github.com/zaqqaz/jest-allure) Add more power to your tests using Jest-Allure with very concise representation of what has been tested in a neat web report form.
 - [jest-standard-reporter](https://github.com/chrisgalvan/jest-standard-reporter) Reporter that uses stdout for messages and stderr for errors
+- [jest-github-reporter](https://github.com/hipstersmoothie/jest-github-reporter) Report jest test errors directly in pull requests
 
 ### Results Processors
 
