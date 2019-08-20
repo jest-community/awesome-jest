@@ -140,6 +140,7 @@
 - [vue-jest](https://github.com/vuejs/vue-jest) Vue transformer with source map support.
 - [marko-jest](https://github.com/abiyasa/marko-jest) Processor for [Marko component](https://markojs.com/).
 - [awesome-pug-jest](https://github.com/iketari/awesome-pug-jest) Processor for [Pug/Jade](https://pugjs.org/)
+- [jest-raw-loader](https://github.com/keplersj/jest-raw-loader) Processor mimicking `webpack`'s `raw-loader`.
 
 ## Resources
 
