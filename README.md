@@ -69,6 +69,7 @@
 - [jest-allure](https://github.com/zaqqaz/jest-allure) Add more power to your tests using Jest-Allure with very concise representation of what has been tested in a neat web report form.
 - [jest-standard-reporter](https://github.com/chrisgalvan/jest-standard-reporter) Reporter that uses stdout for messages and stderr for errors
 - [jest-github-reporter](https://github.com/hipstersmoothie/jest-github-reporter) Report jest test errors directly in pull requests
+- [jest-email-reporter](https://github.com/tglink/jest-email-reporter) Reporter for jest test errors by e-mail
 
 ### Results Processors
 
