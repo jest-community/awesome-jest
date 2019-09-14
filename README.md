@@ -54,6 +54,7 @@
 - [jest-runner-prettier](https://github.com/keplersj/jest-runner-prettier) Prettier runner for Jest.
 - [jest-electron-runner](https://github.com/d4rkr00t/jest-electron-runner) Electron runner for Jest.
 - [jest-runner-stylelint](https://github.com/keplersj/jest-runner-stylelint) Stylelint runner for Jest.
+- [jest-electron](https://github.com/hustcc/jest-electron) Easy way to run and debug jest unittest in electron.
 
 ### Reporters
 
