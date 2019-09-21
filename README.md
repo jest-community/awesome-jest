@@ -92,6 +92,7 @@
 - [Differencify](https://github.com/NimaSoroush/differencify) Visual regression testing tool using Jest and Puppeteer to do Image snapshot comparison.
 - [StoryShots](https://github.com/storybooks/storybook/tree/master/addons/storyshots/storyshots-core) StoryShots adds automatic Jest Snapshot Testing for Storybook.
 - [jest-large-snapshot-warning](https://github.com/jomaxx/jest-large-snapshot-warning) Add warnings to large snapshots.
+- [jest-serializer-react-helmet](https://github.com/keplersj/jest-serializer-react-helmet) Include React Helmet data in component snapshots.
 
 ### Migration
 
