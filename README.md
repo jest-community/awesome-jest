@@ -35,6 +35,7 @@
 - [jest-dom](https://github.com/gnapse/jest-dom) Custom Jest matchers to test the dom structure.
 - [jest-generator](https://github.com/doniyor2109/jest-generator) Jest matcher for testing generator function.
 - [jest-shell-matchers](https://github.com/raingerber/jest-shell-matchers) Test shell scripts while mocking specific commands.
+- [jest-emotion](https://github.com/emotion-js/emotion/tree/master/packages/jest-emotion) Jest matcher for testing Emotion components.
 
 ### IDE
 
@@ -92,6 +93,7 @@
 - [Differencify](https://github.com/NimaSoroush/differencify) Visual regression testing tool using Jest and Puppeteer to do Image snapshot comparison.
 - [StoryShots](https://github.com/storybooks/storybook/tree/master/addons/storyshots/storyshots-core) StoryShots adds automatic Jest Snapshot Testing for Storybook.
 - [jest-large-snapshot-warning](https://github.com/jomaxx/jest-large-snapshot-warning) Add warnings to large snapshots.
+- [jest-emotion](https://github.com/emotion-js/emotion/tree/master/packages/jest-emotion) Include Emotion styles in component snapshots.
 
 ### Migration
 
