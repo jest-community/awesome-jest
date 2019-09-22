@@ -19,6 +19,7 @@
   * [Mocks](#mocks)
   * [Watch Plugins](#watch-plugins)
   * [Processor](#processor)
+  * [Presets](#presets)
 - [Resources](#resources)
 
 
@@ -107,7 +108,6 @@
 - [jest-puppe-shots](https://github.com/macku/jest-puppe-shots) A Jest plugin for creating screenshots of [React](https://reactjs.org/) components with a little help of [Puppeteer](https://github.com/GoogleChrome/puppeteer).
 - [jest-each](https://www.github.com/mattphillips/jest-each) Allows tests to be written once with multiple rows of data supplied to run the test multiple times.
 - [babel-jest-assertions](https://www.github.com/mattphillips/babel-jest-assertions) Babel plugin that automatically adds the number of assertions found in each test with `expect.assertions(n)` and `expect.hasAssertions()`.
-- [jest-puppeteer](https://github.com/smooth-code/jest-puppeteer) A Jest preset that enables a ready-to-use environment to write integration tests using Puppeteer.
 - [typescript-snapshots-plugin](https://github.com/asvetliakov/typescript-snapshots-plugin) Extends the TypeScript dev server to support hovering and jumping to a snapshot.
 - [jest-chain](https://github.com/mattphillips/jest-chain) Chain Jest matchers together to create one powerful assertion.
 - [jest-expect-message](https://github.com/mattphillips/jest-expect-message) Add custom message to Jest expects.
@@ -146,6 +146,13 @@
 - [marko-jest](https://github.com/abiyasa/marko-jest) Processor for [Marko component](https://markojs.com/).
 - [awesome-pug-jest](https://github.com/iketari/awesome-pug-jest) Processor for [Pug/Jade](https://pugjs.org/)
 - [jest-raw-loader](https://github.com/keplersj/jest-raw-loader) Processor mimicking `webpack`'s `raw-loader`.
+
+### Presets
+
+- [jest-dynamodb](https://github.com/shelfio/jest-dynamodb) Jest preset for working with DynamoDB.
+- [jest-mongodb](https://github.com/shelfio/jest-mongodb) Jest preset for working with MongoDB.
+- [jest-puppeteer](https://github.com/smooth-code/jest-puppeteer) A Jest preset that enables a ready-to-use environment to write integration tests using Puppeteer.
+- [jest-preset-gatsby](https://github.com/keplersj/jest-preset-gatsby) Jest preset to streamline unit testing a Gatsby project.
 
 ## Resources
 
