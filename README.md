@@ -97,6 +97,7 @@
 - [jest-serializer-react-helmet](https://github.com/keplersj/jest-serializer-react-helmet) Include React Helmet data in component snapshots.
 - [jest-serializer-json-ld-script](https://github.com/keplersj/jest-serializer-json-ld-script) Serializes JSON+LD elements as JavaScript objects.
 - [jest-emotion](https://github.com/emotion-js/emotion/tree/master/packages/jest-emotion) Include Emotion styles in component snapshots.
+- [jest-serializer-xml](https://github.com/keplersj/jest-serializer-xml) Format XML documents to better visualize in Snapshots.
 
 ### Migration
 
