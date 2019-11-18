@@ -121,6 +121,7 @@
 - [jest-canvas-mock](https://github.com/hustcc/jest-canvas-mock) Mock canvas when run unit test cases with jest.
 - [jest-localstorage-mock](https://github.com/clarkbw/jest-localstorage-mock) A module to mock window.localStorage and window.sessionStorage in Jest.
 - [jest-date-mock](https://github.com/hustcc/jest-date-mock) Mock `window.Date` when run unit test cases with jest. Make tests of Date easier.
+-[jest-mock-extended](https://github.com/marchaos/jest-mock-extended) Create Typesafe mocks for TS interfaces and objects as well as returning argument specific return values.
 
 ### Watch plugins
 
