@@ -57,6 +57,7 @@
 - [jest-electron-runner](https://github.com/d4rkr00t/jest-electron-runner) Electron runner for Jest.
 - [jest-runner-stylelint](https://github.com/keplersj/jest-runner-stylelint) Stylelint runner for Jest.
 - [jest-runner-groups](https://github.com/eugene-manuilov/jest-runner-groups) A runner that lets to group tests and to run groups separately.
+- [jest-runner-vscode](https://github.com/bmealhouse/jest-runner-vscode) VS Code extension test runner for Jest.
 
 ### Reporters
 
