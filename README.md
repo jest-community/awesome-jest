@@ -13,6 +13,7 @@
   * [Reporters](#reporters)
   * [Results Processors](#results-processors)
   * [Environments](#environments)
+  * [Coverage](#coverage)
   * [Snapshot](#snapshot)
   * [Migration](#migration)
   * [Library extensions](#library-extensions)
@@ -82,6 +83,10 @@
 
 - [jest-environment-webdriver](https://github.com/alexeyraspopov/jest-webdriver) custom environment for WebDriver integration.
 - [jest-environment-puppeteer](https://github.com/smooth-code/jest-puppeteer/tree/master/packages/jest-environment-puppeteer) Puppeteer environment for Jest.
+
+### Coverage
+
+- [jest-it-up](https://github.com/rbardini/jest-it-up) Automatically bump up global thresholds whenever coverage goes above them.
 
 ### Snapshot
 
