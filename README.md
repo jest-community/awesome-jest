@@ -38,6 +38,7 @@
 - [jest-generator](https://github.com/doniyor2109/jest-generator) Jest matcher for testing generator function.
 - [jest-shell-matchers](https://github.com/raingerber/jest-shell-matchers) Test shell scripts while mocking specific commands.
 - [jest-emotion](https://github.com/emotion-js/emotion/tree/master/packages/jest-emotion) Jest matcher for testing Emotion components.
+- [jest-openapi](https://github.com/RuntimeTools/OpenAPIValidators/tree/master/packages/jest-openapi) Jest matchers for asserting that HTTP responses satisfy an [OpenAPI](https://swagger.io/docs/specification/about) spec.
 
 ### IDE
 
