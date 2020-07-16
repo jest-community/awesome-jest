@@ -169,6 +169,7 @@
 
 - [Jest cheat sheet](https://github.com/sapegin/jest-cheat-sheet).
 - [React Jest workshop](https://github.com/kentcdodds/react-jest-workshop).
+- [Jest: How Do I Mock X](https://github.com/magicmark/jest-how-do-i-mock-x)
 
 
 ## Contribute
