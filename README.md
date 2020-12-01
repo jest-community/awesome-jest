@@ -76,7 +76,7 @@
 - [jest-standard-reporter](https://github.com/chrisgalvan/jest-standard-reporter) Reporter that uses stdout for messages and stderr for errors
 - [jest-github-reporter](https://github.com/hipstersmoothie/jest-github-reporter) Report jest test errors directly in pull requests
 - [jest-email-reporter](https://github.com/tglink/jest-email-reporter) Reporter for jest test errors by e-mail
-
+- [jest-dashboard](https://github.com/theoutlander/jest-dashboard) Command line dashboard
 ### Results Processors
 
 - [majestic](https://github.com/Raathigesh/majestic) Zero config UI for Jest.
