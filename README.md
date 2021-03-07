@@ -90,6 +90,7 @@
 ### Coverage
 
 - [jest-it-up](https://github.com/rbardini/jest-it-up) Automatically bump up global thresholds whenever coverage goes above them.
+- [jest-coverage-thresholds-bumper](https://github.com/Litee/jest-coverage-thresholds-bumper) Similar to `jest-it-up`, but allows to specify where coverage summary is located, supports Jest config in JSON files and `package.json`.
 
 ### Snapshot
 
