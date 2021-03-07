@@ -108,6 +108,7 @@
 - [jest-serializer-json-ld-script](https://github.com/keplersj/jest-serializer-json-ld-script) Serializes JSON+LD elements as JavaScript objects.
 - [jest-emotion](https://github.com/emotion-js/emotion/tree/master/packages/jest-emotion) Include Emotion styles in component snapshots.
 - [jest-serializer-xml](https://github.com/keplersj/jest-serializer-xml) Format XML documents to better visualize in Snapshots.
+- [1log](https://github.com/ivan7237d/1log) Extensible logger that allows capturing log messages as snapshots.
 
 ### Migration
 
