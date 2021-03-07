@@ -38,7 +38,7 @@
 - [jest-generator](https://github.com/doniyor2109/jest-generator) Jest matcher for testing generator function.
 - [jest-shell-matchers](https://github.com/raingerber/jest-shell-matchers) Test shell scripts while mocking specific commands.
 - [jest-emotion](https://github.com/emotion-js/emotion/tree/master/packages/jest-emotion) Jest matcher for testing Emotion components.
-- [jest-openapi](https://github.com/RuntimeTools/OpenAPIValidators/tree/master/packages/jest-openapi) Jest matchers for asserting that HTTP responses satisfy an [OpenAPI](https://swagger.io/docs/specification/about) spec.
+- [jest-openapi](https://github.com/openapi-library/OpenAPIValidators/tree/master/packages/jest-openapi) Jest matchers for asserting that HTTP responses satisfy an [OpenAPI](https://swagger.io/docs/specification/about) spec.
 
 ### IDE
 
@@ -59,6 +59,7 @@
 - [jest-electron-runner](https://github.com/d4rkr00t/jest-electron-runner) Electron runner for Jest.
 - [jest-runner-stylelint](https://github.com/keplersj/jest-runner-stylelint) Stylelint runner for Jest.
 - [jest-runner-groups](https://github.com/eugene-manuilov/jest-runner-groups) A runner that lets to group tests and to run groups separately.
+- [jest-runner-tsc](https://github.com/azz/jest-runner-tsc) A Jest runner for the TypeScript compiler. 
 
 ### Reporters
 
@@ -69,13 +70,15 @@
 - [jest-html-reporter](https://github.com/Hargne/jest-html-reporter)  A Jest test results processor for generating a summary in HTML.
 - [jest-stare](https://github.com/dkelosky/jest-stare) Configurable HTML reporter for filtering, side-by-side snapshot diffs, API, and simple CLI.
 - [jest-slow-test-reporter](https://github.com/jodonnell/jest-slow-test-reporter) Prints the slowest tests in your codebase.
-- [jest-simple-dot-reporter](https://github.com/jodonnell/jest-simple-dot-reporter) A simple dot reporter.
+- [jest-simple-dot-reporter](https://github.com/jodonnell/jest-simple-dot-reporter) A simple dot reporter - one dot per each test.
+- [jest-progress-bar-reporter](https://github.com/pierreroth64/jest-progress-bar-reporter) Simple reporter with a little progressbar.
 - [jest-html-reporters](https://github.com/Hazyzh/jest-html-reporters) A Jest test results processor for generating a summary in HTML.
 - [jest-allure](https://github.com/zaqqaz/jest-allure) Add more power to your tests using Jest-Allure with very concise representation of what has been tested in a neat web report form.
 - [jest-standard-reporter](https://github.com/chrisgalvan/jest-standard-reporter) Reporter that uses stdout for messages and stderr for errors
 - [jest-github-reporter](https://github.com/hipstersmoothie/jest-github-reporter) Report jest test errors directly in pull requests
 - [jest-email-reporter](https://github.com/tglink/jest-email-reporter) Reporter for jest test errors by e-mail
-
+- [jest-dashboard](https://github.com/theoutlander/jest-dashboard) Command line dashboard
+- [testrail-jest-reporter](https://github.com/AntonChaukin/testrail-jest-reporter) Report jest test results to TestRail
 ### Results Processors
 
 - [majestic](https://github.com/Raathigesh/majestic) Zero config UI for Jest.
@@ -88,6 +91,7 @@
 ### Coverage
 
 - [jest-it-up](https://github.com/rbardini/jest-it-up) Automatically bump up global thresholds whenever coverage goes above them.
+- [jest-coverage-thresholds-bumper](https://github.com/Litee/jest-coverage-thresholds-bumper) Similar to `jest-it-up`, but allows to specify where coverage summary is located, supports Jest config in JSON files and `package.json`.
 
 ### Snapshot
 
@@ -105,6 +109,7 @@
 - [jest-serializer-json-ld-script](https://github.com/keplersj/jest-serializer-json-ld-script) Serializes JSON+LD elements as JavaScript objects.
 - [jest-emotion](https://github.com/emotion-js/emotion/tree/master/packages/jest-emotion) Include Emotion styles in component snapshots.
 - [jest-serializer-xml](https://github.com/keplersj/jest-serializer-xml) Format XML documents to better visualize in Snapshots.
+- [1log](https://github.com/ivan7237d/1log) Extensible logger that allows capturing log messages as snapshots.
 
 ### Migration
 
@@ -114,15 +119,15 @@
 
 - [testdouble-jest](https://github.com/testdouble/testdouble-jest) Support for [testdouble.js](https://github.com/testdouble/testdouble.js) for users of Jest.
 - [jest-puppe-shots](https://github.com/macku/jest-puppe-shots) A Jest plugin for creating screenshots of [React](https://reactjs.org/) components with a little help of [Puppeteer](https://github.com/GoogleChrome/puppeteer).
-- [jest-each](https://www.github.com/mattphillips/jest-each) Allows tests to be written once with multiple rows of data supplied to run the test multiple times.
 - [babel-jest-assertions](https://www.github.com/mattphillips/babel-jest-assertions) Babel plugin that automatically adds the number of assertions found in each test with `expect.assertions(n)` and `expect.hasAssertions()`.
 - [typescript-snapshots-plugin](https://github.com/asvetliakov/typescript-snapshots-plugin) Extends the TypeScript dev server to support hovering and jumping to a snapshot.
 - [jest-chain](https://github.com/mattphillips/jest-chain) Chain Jest matchers together to create one powerful assertion.
 - [jest-expect-message](https://github.com/mattphillips/jest-expect-message) Add custom message to Jest expects.
-- [@bigtest/interactor](https://www.bigtestjs.io/guides/interactors/introduction/) Composable Page Objects for component based applications. Checkout the [documentation](https://www.bigtestjs.io/guides/interactors/introduction/) and [blog post](https://medium.com/@robdel12/jest-bigtest-interactor-component-test-%EF%B8%8F-11b1947954c8) about using with Jest.
+- [@bigtest/interactor](https://frontside.com/bigtest/interactors) A testing and assertion library that makes it easy to test UIs at scale while keeping accessibility at the core.
 - [@testdeck/jest](https://github.com/testdeck/testdeck/) Decorator based wrapper around Jest for object oriented testing. Checkout the [documentation](https://testdeck.org) and a working [seed](https://github.com/testdeck/testdeck-jest-seed) for you to start with.
 - [jest-plugin-must-assert](https://github.com/ballercat/jest-plugin-must-assert) A Jest plugin for strict runtime checks. Fails any tests without assertions and prevents async tasks (Promises & timeouts) from leaking across tests.
 - [wait-for-expect](https://github.com/TheBrainFamily/wait-for-expect) A await/async function to wait a expect. Usefull on e2e test. 
+- [jest-os-detection](https://github.com/doctolib/jest-os-detection) Dynamically enable or skip tests based on the OS they run on so you can share the same test suite accross various platforms.
 
 ### Mocks
 
@@ -131,6 +136,7 @@
 - [jest-localstorage-mock](https://github.com/clarkbw/jest-localstorage-mock) A module to mock window.localStorage and window.sessionStorage in Jest.
 - [jest-date-mock](https://github.com/hustcc/jest-date-mock) Mock `window.Date` when run unit test cases with jest. Make tests of Date easier.
 - [jest-mock-extended](https://github.com/marchaos/jest-mock-extended) Create Typesafe mocks for TS interfaces and objects as well as returning argument specific return values.
+- [jest-wake-lock-mock](https://github.com/jorisre/jest-wake-lock-mock) Mock Screen Wake Lock API `navigator.wakeLock` with ease and run your tests using Jest
 
 ### Watch plugins
 
@@ -164,6 +170,7 @@
 - [jest-dynamodb](https://github.com/shelfio/jest-dynamodb) Jest preset for working with DynamoDB.
 - [jest-mongodb](https://github.com/shelfio/jest-mongodb) Jest preset for working with MongoDB.
 - [jest-puppeteer](https://github.com/smooth-code/jest-puppeteer) A Jest preset that enables a ready-to-use environment to write integration tests using Puppeteer.
+- [jest-preset-angular](https://github.com/thymikee/jest-preset-angular) Jest preset for [Angular](https://angular.io/) projects
 - [jest-preset-gatsby](https://github.com/keplersj/jest-preset-gatsby) Jest preset to streamline unit testing a Gatsby project.
 
 ## Resources
