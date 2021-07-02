@@ -137,6 +137,7 @@
 - [jest-date-mock](https://github.com/hustcc/jest-date-mock) Mock `window.Date` when run unit test cases with jest. Make tests of Date easier.
 - [jest-mock-extended](https://github.com/marchaos/jest-mock-extended) Create Typesafe mocks for TS interfaces and objects as well as returning argument specific return values.
 - [jest-wake-lock-mock](https://github.com/jorisre/jest-wake-lock-mock) Mock Screen Wake Lock API `navigator.wakeLock` with ease and run your tests using Jest
+- [jest-location-mock](https://github.com/evelynhathaway/jest-location-mock) Mock `window.location` easliy.
 
 ### Watch plugins
 
