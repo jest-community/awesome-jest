@@ -21,6 +21,7 @@
   * [Watch Plugins](#watch-plugins)
   * [Processor](#processor)
   * [Presets](#presets)
+  * [Generators](#generators)
 - [Resources](#resources)
 
 
@@ -174,6 +175,10 @@
 - [jest-puppeteer](https://github.com/smooth-code/jest-puppeteer) A Jest preset that enables a ready-to-use environment to write integration tests using Puppeteer.
 - [jest-preset-angular](https://github.com/thymikee/jest-preset-angular) Jest preset for [Angular](https://angular.io/) projects
 - [jest-preset-gatsby](https://github.com/keplersj/jest-preset-gatsby) Jest preset to streamline unit testing a Gatsby project.
+
+### Generators
+
+- [jest-test-gen](https://github.com/egm0121/jest-test-gen) CLI tool to generate a test file with test scaffold for every class method or function exported.
 
 ## Resources
 
