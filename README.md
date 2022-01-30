@@ -46,6 +46,7 @@
 - [vscode-jest](https://www.github.com/jest-community/vscode-jest) Works out of the box Jest based testing in VS Code.
 - [wallaby](https://github.com/wallabyjs/public/) The pinnacle of the idea of a test runner integrated into an editor.
 - [coc-jest](https://github.com/neoclide/coc-jest) Jest plugin for [coc.nvim](https://github.com/neoclide/coc.nvim)
+- [jester](https://github.com/David-Kunz/jester) A Neovim plugin to easily run and debug Jest tests.
 
 ### Linting
 
