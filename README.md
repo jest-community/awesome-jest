@@ -172,6 +172,7 @@
 
 - [jest-dynamodb](https://github.com/shelfio/jest-dynamodb) Jest preset for working with DynamoDB.
 - [jest-mongodb](https://github.com/shelfio/jest-mongodb) Jest preset for working with MongoDB.
+- [jest-elasticsearch](https://github.com/shelfio/jest-elasticsearch) Jest preset for working with ElasticSearch.
 - [jest-puppeteer](https://github.com/smooth-code/jest-puppeteer) A Jest preset that enables a ready-to-use environment to write integration tests using Puppeteer.
 - [jest-preset-angular](https://github.com/thymikee/jest-preset-angular) Jest preset for [Angular](https://angular.io/) projects
 - [jest-preset-gatsby](https://github.com/keplersj/jest-preset-gatsby) Jest preset to streamline unit testing a Gatsby project.
