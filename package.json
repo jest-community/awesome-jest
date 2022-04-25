@@ -1,0 +1,13 @@
+{
+  "name": "awesome-jest",
+  "description": "Awesome Jest packages and resources",
+  "license": "MIT",
+  "repository": "https://github.com/jest-community/awesome-jest.git",
+  "scripts": {
+    "prettier": "prettier . --write"
+  },
+  "devDependencies": {
+    "prettier": "^2.6.2"
+  },
+  "packageManager": "yarn@3.2.0"
+}
