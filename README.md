@@ -2,28 +2,26 @@
 
 > An awesome list of [Jest](https://facebook.github.io/jest/) packages and resources
 
-
 ## Contents
 
 - [Packages](#packages)
-  * [Matchers](#matchers)
-  * [IDE](#ide)
-  * [Linting](#linting)
-  * [Runners](#runners)
-  * [Reporters](#reporters)
-  * [Results Processors](#results-processors)
-  * [Environments](#environments)
-  * [Coverage](#coverage)
-  * [Snapshot](#snapshot)
-  * [Migration](#migration)
-  * [Library extensions](#library-extensions)
-  * [Mocks](#mocks)
-  * [Watch Plugins](#watch-plugins)
-  * [Processor](#processor)
-  * [Presets](#presets)
-  * [Generators](#generators)
+  - [Matchers](#matchers)
+  - [IDE](#ide)
+  - [Linting](#linting)
+  - [Runners](#runners)
+  - [Reporters](#reporters)
+  - [Results Processors](#results-processors)
+  - [Environments](#environments)
+  - [Coverage](#coverage)
+  - [Snapshot](#snapshot)
+  - [Migration](#migration)
+  - [Library extensions](#library-extensions)
+  - [Mocks](#mocks)
+  - [Watch Plugins](#watch-plugins)
+  - [Processor](#processor)
+  - [Presets](#presets)
+  - [Generators](#generators)
 - [Resources](#resources)
-
 
 ## Packages
 
@@ -62,7 +60,9 @@
 - [jest-electron-runner](https://github.com/d4rkr00t/jest-electron-runner) Electron runner for Jest.
 - [jest-runner-stylelint](https://github.com/keplersj/jest-runner-stylelint) Stylelint runner for Jest.
 - [jest-runner-groups](https://github.com/eugene-manuilov/jest-runner-groups) A runner that lets to group tests and to run groups separately.
-- [jest-runner-tsc](https://github.com/azz/jest-runner-tsc) A Jest runner for the TypeScript compiler. 
+- [jest-runner-tsc](https://github.com/azz/jest-runner-tsc) A Jest runner for the TypeScript compiler.
+- [jest-runner-tsd](https://github.com/jest-community/jest-runner-tsd) Runner for running TypeScript type tests.
+- [jest-light-runner](https://github.com/nicolo-ribaudo/jest-light-runner) Runner that runs tests directly in bare Node.js, without virtualizing the environment.
 
 ### Reporters
 
@@ -70,7 +70,7 @@
 - [jest-junit](https://github.com/jest-community/jest-junit) A JUnit format reporter for Jest which can integrate with CI systems.
 - [jest-xunit](https://github.com/sscaff1/jest-xunit) An xUnit format reporter for Jest.
 - [jest-skipped-reporter](https://github.com/rickhanlonii/jest-skipped-reporter) Report skipped tests in Jest.
-- [jest-html-reporter](https://github.com/Hargne/jest-html-reporter)  A Jest test results processor for generating a summary in HTML.
+- [jest-html-reporter](https://github.com/Hargne/jest-html-reporter) A Jest test results processor for generating a summary in HTML.
 - [jest-stare](https://github.com/dkelosky/jest-stare) Configurable HTML reporter for filtering, side-by-side snapshot diffs, API, and simple CLI.
 - [jest-slow-test-reporter](https://github.com/jodonnell/jest-slow-test-reporter) Prints the slowest tests in your codebase.
 - [jest-simple-dot-reporter](https://github.com/jodonnell/jest-simple-dot-reporter) A simple dot reporter - one dot per each test.
@@ -82,6 +82,7 @@
 - [jest-email-reporter](https://github.com/tglink/jest-email-reporter) Reporter for jest test errors by e-mail
 - [jest-dashboard](https://github.com/theoutlander/jest-dashboard) Command line dashboard
 - [testrail-jest-reporter](https://github.com/AntonChaukin/testrail-jest-reporter) Report jest test results to TestRail
+
 ### Results Processors
 
 - [majestic](https://github.com/Raathigesh/majestic) Zero config UI for Jest.
@@ -129,7 +130,7 @@
 - [@bigtest/interactor](https://frontside.com/bigtest/interactors) A testing and assertion library that makes it easy to test UIs at scale while keeping accessibility at the core.
 - [@testdeck/jest](https://github.com/testdeck/testdeck/) Decorator based wrapper around Jest for object oriented testing. Checkout the [documentation](https://testdeck.org) and a working [seed](https://github.com/testdeck/testdeck-jest-seed) for you to start with.
 - [jest-plugin-must-assert](https://github.com/ballercat/jest-plugin-must-assert) A Jest plugin for strict runtime checks. Fails any tests without assertions and prevents async tasks (Promises & timeouts) from leaking across tests.
-- [wait-for-expect](https://github.com/TheBrainFamily/wait-for-expect) A await/async function to wait a expect. Useful on e2e test. 
+- [wait-for-expect](https://github.com/TheBrainFamily/wait-for-expect) A await/async function to wait a expect. Useful on e2e test.
 - [jest-os-detection](https://github.com/doctolib/jest-os-detection) Dynamically enable or skip tests based on the OS they run on so you can share the same test suite across various platforms.
 
 ### Mocks
@@ -140,7 +141,7 @@
 - [jest-date-mock](https://github.com/hustcc/jest-date-mock) Mock `window.Date` when run unit test cases with jest. Make tests of Date easier.
 - [jest-mock-extended](https://github.com/marchaos/jest-mock-extended) Create Typesafe mocks for TS interfaces and objects as well as returning argument specific return values.
 - [jest-wake-lock-mock](https://github.com/jorisre/jest-wake-lock-mock) Mock Screen Wake Lock API `navigator.wakeLock` with ease and run your tests using Jest
-- [jest-location-mock](https://github.com/evelynhathaway/jest-location-mock) Mock `window.location` easliy.
+- [jest-location-mock](https://github.com/evelynhathaway/jest-location-mock) Mock `window.location` easily.
 
 ### Watch plugins
 
@@ -188,11 +189,9 @@
 - [React Jest workshop](https://github.com/kentcdodds/react-jest-workshop).
 - [Jest: How Do I Mock X](https://github.com/magicmark/jest-how-do-i-mock-x)
 
-
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](/CONTRIBUTING.md).
-
 
 ## License
 
