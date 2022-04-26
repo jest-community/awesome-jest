@@ -1,6 +1,6 @@
 # Awesome Jest [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> An awesome list of [Jest](https://facebook.github.io/jest/) packages and resources
+> An awesome list of [Jest](https://jestjs.io) packages and resources
 
 ## Contents
 
@@ -27,9 +27,9 @@
 
 ### Matchers
 
-- [jest-extended](https://www.github.com/jest-community/jest-extended) Adds additional matchers to core API making it easy to test everything.
+- [jest-extended](https://github.com/jest-community/jest-extended) Adds additional matchers to core API making it easy to test everything.
 - [expect-more](https://github.com/JamieMason/expect-more/tree/master/packages/expect-more-jest) A huge library of test matchers for a range of common use-cases.
-- [jest-axe](https://github.com/nickcolley/jest-axe) Custom Jest matcher for [aXe](https://axe-core.org/) for testing accessibility.
+- [jest-axe](https://github.com/nickcolley/jest-axe) Custom Jest matcher for [axe](https://github.com/dequelabs/axe-core) for testing accessibility.
 - [jest-enzyme](https://github.com/FormidableLabs/enzyme-matchers/tree/master/packages/jest-enzyme) An assertion library for enzyme.
 - [jest-json-schema](https://github.com/americanexpress/jest-json-schema) JSON schema matcher.
 - [expect-puppeteer](https://github.com/smooth-code/jest-puppeteer/tree/master/packages/expect-puppeteer) Collection of matchers for Jest & Puppeteer.
@@ -42,19 +42,19 @@
 
 ### IDE
 
-- [vscode-jest](https://www.github.com/jest-community/vscode-jest) Works out of the box Jest based testing in VS Code.
-- [wallaby](https://github.com/wallabyjs/public/) The pinnacle of the idea of a test runner integrated into an editor.
-- [coc-jest](https://github.com/neoclide/coc-jest) Jest plugin for [coc.nvim](https://github.com/neoclide/coc.nvim)
+- [vscode-jest](https://github.com/jest-community/vscode-jest) Works out of the box Jest based testing in VS Code.
+- [wallaby](https://github.com/wallabyjs/public) The pinnacle of the idea of a test runner integrated into an editor.
+- [coc-jest](https://github.com/neoclide/coc-jest) Jest plugin for [coc.nvim](https://github.com/neoclide/coc.nvim).
 - [jester](https://github.com/David-Kunz/jester) A Neovim plugin to easily run and debug Jest tests.
 
 ### Linting
 
-- [eslint-plugin-jest](https://www.github.com/jest-community/eslint-plugin-jest) ESLint plugin for Jest.
+- [eslint-plugin-jest](https://github.com/jest-community/eslint-plugin-jest) ESLint plugin for Jest.
 - [eslint-plugin-jest-formatting](https://github.com/dangreenisrael/eslint-plugin-jest-formatting) ESLint plugin that aims to provide formatting rules (auto-fixable where possible) to ensure consistency and readability in jest test suites.
 
 ### Runners
 
-- [jest-runner-eslint](https://www.github.com/jest-community/jest-runner-eslint) ESLint runner for Jest.
+- [jest-runner-eslint](https://github.com/jest-community/jest-runner-eslint) ESLint runner for Jest.
 - [jest-runner-mocha](https://github.com/rogeliog/jest-runner-mocha) Mocha runner for Jest.
 - [jest-runner-prettier](https://github.com/keplersj/jest-runner-prettier) Prettier runner for Jest.
 - [jest-electron-runner](https://github.com/d4rkr00t/jest-electron-runner) Electron runner for Jest.
@@ -77,11 +77,11 @@
 - [jest-progress-bar-reporter](https://github.com/pierreroth64/jest-progress-bar-reporter) Simple reporter with a little progressbar.
 - [jest-html-reporters](https://github.com/Hazyzh/jest-html-reporters) A Jest test results processor for generating a summary in HTML.
 - [jest-allure](https://github.com/zaqqaz/jest-allure) Add more power to your tests using Jest-Allure with very concise representation of what has been tested in a neat web report form.
-- [jest-standard-reporter](https://github.com/chrisgalvan/jest-standard-reporter) Reporter that uses stdout for messages and stderr for errors
-- [jest-github-reporter](https://github.com/hipstersmoothie/jest-github-reporter) Report jest test errors directly in pull requests
-- [jest-email-reporter](https://github.com/tglink/jest-email-reporter) Reporter for jest test errors by e-mail
-- [jest-dashboard](https://github.com/theoutlander/jest-dashboard) Command line dashboard
-- [testrail-jest-reporter](https://github.com/AntonChaukin/testrail-jest-reporter) Report jest test results to TestRail
+- [jest-standard-reporter](https://github.com/chrisgalvan/jest-standard-reporter) Reporter that uses stdout for messages and stderr for errors.
+- [jest-github-reporter](https://github.com/hipstersmoothie/jest-github-reporter) Report jest test errors directly in pull requests.
+- [jest-email-reporter](https://github.com/tglink/jest-email-reporter) Reporter for jest test errors by e-mail.
+- [jest-dashboard](https://github.com/theoutlander/jest-dashboard) Command line dashboard.
+- [testrail-jest-reporter](https://github.com/AntonChaukin/testrail-jest-reporter) Report jest test results to TestRail.
 
 ### Results Processors
 
@@ -99,8 +99,8 @@
 
 ### Snapshot
 
-- [snapshot-diff](https://www.github.com/jest-community/snapshot-diff) Takes two values, and return their difference as a string, ready to be snapshotted with toMatchSnapshot(). Especially helpful when testing the difference between different React component states.
-- [jest-snapshots-svg](https://www.github.com/jest-community/jest-snapshots-svg) Take a React component tree, and render it into an SVG.
+- [snapshot-diff](https://github.com/jest-community/snapshot-diff) Takes two values, and return their difference as a string, ready to be snapshotted with `toMatchSnapshot()`. Especially helpful when testing the difference between different React component states.
+- [jest-snapshots-svg](https://github.com/jest-community/jest-snapshots-svg) Take a React component tree, and render it into an SVG.
 - [jest-image-snapshot](https://github.com/americanexpress/jest-image-snapshot) Take a snapshot test of an image buffer, and catch when the image changes over a threshold. Commonly used for visual regression testing.
 - [enzyme-to-json](https://github.com/adriantoine/enzyme-to-json) Convert Enzyme wrappers to a format compatible with Jest snapshot testing.
 - [jest-styled-components](https://github.com/styled-components/jest-styled-components) A set of utilities for testing Styled Components with Jest.
@@ -122,13 +122,13 @@
 ### Library extensions
 
 - [testdouble-jest](https://github.com/testdouble/testdouble-jest) Support for [testdouble.js](https://github.com/testdouble/testdouble.js) for users of Jest.
-- [jest-puppe-shots](https://github.com/macku/jest-puppe-shots) A Jest plugin for creating screenshots of [React](https://reactjs.org/) components with a little help of [Puppeteer](https://github.com/GoogleChrome/puppeteer).
-- [babel-jest-assertions](https://www.github.com/mattphillips/babel-jest-assertions) Babel plugin that automatically adds the number of assertions found in each test with `expect.assertions(n)` and `expect.hasAssertions()`.
+- [jest-puppe-shots](https://github.com/macku/jest-puppe-shots) A Jest plugin for creating screenshots of [React](https://reactjs.org) components with a little help of [Puppeteer](https://github.com/puppeteer/puppeteer).
+- [babel-jest-assertions](https://github.com/mattphillips/babel-jest-assertions) Babel plugin that automatically adds the number of assertions found in each test with `expect.assertions(n)` and `expect.hasAssertions()`.
 - [typescript-snapshots-plugin](https://github.com/asvetliakov/typescript-snapshots-plugin) Extends the TypeScript dev server to support hovering and jumping to a snapshot.
 - [jest-chain](https://github.com/mattphillips/jest-chain) Chain Jest matchers together to create one powerful assertion.
 - [jest-expect-message](https://github.com/mattphillips/jest-expect-message) Add custom message to Jest expects.
 - [@bigtest/interactor](https://frontside.com/bigtest/interactors) A testing and assertion library that makes it easy to test UIs at scale while keeping accessibility at the core.
-- [@testdeck/jest](https://github.com/testdeck/testdeck/) Decorator based wrapper around Jest for object oriented testing. Checkout the [documentation](https://testdeck.org) and a working [seed](https://github.com/testdeck/testdeck-jest-seed) for you to start with.
+- [@testdeck/jest](https://github.com/testdeck/testdeck) Decorator based wrapper around Jest for object oriented testing. Checkout the [documentation](https://testdeck.org) and a working [seed](https://github.com/testdeck/testdeck-jest-seed) for you to start with.
 - [jest-plugin-must-assert](https://github.com/ballercat/jest-plugin-must-assert) A Jest plugin for strict runtime checks. Fails any tests without assertions and prevents async tasks (Promises & timeouts) from leaking across tests.
 - [wait-for-expect](https://github.com/TheBrainFamily/wait-for-expect) A await/async function to wait a expect. Useful on e2e test.
 - [jest-os-detection](https://github.com/doctolib/jest-os-detection) Dynamically enable or skip tests based on the OS they run on so you can share the same test suite across various platforms.
@@ -140,7 +140,7 @@
 - [jest-localstorage-mock](https://github.com/clarkbw/jest-localstorage-mock) A module to mock window.localStorage and window.sessionStorage in Jest.
 - [jest-date-mock](https://github.com/hustcc/jest-date-mock) Mock `window.Date` when run unit test cases with jest. Make tests of Date easier.
 - [jest-mock-extended](https://github.com/marchaos/jest-mock-extended) Create Typesafe mocks for TS interfaces and objects as well as returning argument specific return values.
-- [jest-wake-lock-mock](https://github.com/jorisre/jest-wake-lock-mock) Mock Screen Wake Lock API `navigator.wakeLock` with ease and run your tests using Jest
+- [jest-wake-lock-mock](https://github.com/jorisre/jest-wake-lock-mock) Mock Screen Wake Lock API `navigator.wakeLock` with ease and run your tests using Jest.
 - [jest-location-mock](https://github.com/evelynhathaway/jest-location-mock) Mock `window.location` easily.
 
 ### Watch plugins
@@ -164,8 +164,8 @@
 - [jest-nunjucks](https://github.com/denar90/jest-nunjucks) Processor that compiles nunjucks templates.
 - [ts-jest](https://github.com/kulshekhar/ts-jest) TypeScript preprocessor with sourcemap support.
 - [vue-jest](https://github.com/vuejs/vue-jest) Vue transformer with source map support.
-- [marko-jest](https://github.com/abiyasa/marko-jest) Processor for [Marko component](https://markojs.com/).
-- [awesome-pug-jest](https://github.com/iketari/awesome-pug-jest) Processor for [Pug/Jade](https://pugjs.org/)
+- [marko-jest](https://github.com/abiyasa/marko-jest) Processor for [Marko component](https://markojs.com).
+- [awesome-pug-jest](https://github.com/iketari/awesome-pug-jest) Processor for [Pug/Jade](https://pugjs.org).
 - [jest-raw-loader](https://github.com/keplersj/jest-raw-loader) Processor mimicking `webpack`'s `raw-loader`.
 - [jest-less-loader](https://github.com/hustcc/jest-less-loader) Jest transformer for `.less` file.
 - [jest-url-loader](https://github.com/hustcc/jest-url-loader) Similar with webpack's `url-loader` for Jest transformer.
@@ -176,7 +176,7 @@
 - [jest-mongodb](https://github.com/shelfio/jest-mongodb) Jest preset for working with MongoDB.
 - [jest-elasticsearch](https://github.com/shelfio/jest-elasticsearch) Jest preset for working with ElasticSearch.
 - [jest-puppeteer](https://github.com/smooth-code/jest-puppeteer) A Jest preset that enables a ready-to-use environment to write integration tests using Puppeteer.
-- [jest-preset-angular](https://github.com/thymikee/jest-preset-angular) Jest preset for [Angular](https://angular.io/) projects
+- [jest-preset-angular](https://github.com/thymikee/jest-preset-angular) Jest preset for [Angular](https://angular.io) projects.
 - [jest-preset-gatsby](https://github.com/keplersj/jest-preset-gatsby) Jest preset to streamline unit testing a Gatsby project.
 
 ### Generators
@@ -187,7 +187,7 @@
 
 - [Jest cheat sheet](https://github.com/sapegin/jest-cheat-sheet).
 - [React Jest workshop](https://github.com/kentcdodds/react-jest-workshop).
-- [Jest: How Do I Mock X](https://github.com/magicmark/jest-how-do-i-mock-x)
+- [Jest: How Do I Mock X](https://github.com/magicmark/jest-how-do-i-mock-x).
 
 ## Contribute
 
