@@ -19,4 +19,4 @@ jobs:
           node-version: lts/*
           cache: yarn
       - run: yarn install
-      - run: yarn lint:prettier --no-write --check
+      - run: yarn prettier --no-write --check
