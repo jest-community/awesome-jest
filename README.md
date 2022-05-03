@@ -21,6 +21,7 @@
   - [Processor](#processor)
   - [Presets](#presets)
   - [Generators](#generators)
+  - [Debug](#debug)
 - [Resources](#resources)
 
 ## Packages
@@ -182,6 +183,10 @@
 ### Generators
 
 - [jest-test-gen](https://github.com/egm0121/jest-test-gen) CLI tool to generate a test file with test scaffold for every class method or function exported.
+
+### Debug
+
+- [jest-preview](https://github.com/nvh95/jest-preview) Preview Jest tests in a browser.
 
 ## Resources
 
