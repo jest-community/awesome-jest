@@ -75,6 +75,7 @@
 - [jest-stare](https://github.com/dkelosky/jest-stare) Configurable HTML reporter for filtering, side-by-side snapshot diffs, API, and simple CLI.
 - [jest-slow-test-reporter](https://github.com/jodonnell/jest-slow-test-reporter) Prints the slowest tests in your codebase.
 - [jest-simple-dot-reporter](https://github.com/jodonnell/jest-simple-dot-reporter) A simple dot reporter - one dot per each test.
+- [jest-performance-reporter](https://github.com/sholzmayer/jest-performance-reporter) Identify slow tests and create a report including execution times.
 - [jest-progress-bar-reporter](https://github.com/pierreroth64/jest-progress-bar-reporter) Simple reporter with a little progressbar.
 - [jest-html-reporters](https://github.com/Hazyzh/jest-html-reporters) A Jest test results processor for generating a summary in HTML.
 - [jest-allure](https://github.com/zaqqaz/jest-allure) Add more power to your tests using Jest-Allure with very concise representation of what has been tested in a neat web report form.
