@@ -121,6 +121,7 @@
 ### Migration
 
 - [jest-codemods](https://github.com/skovhus/jest-codemods) Makes it easy to migrate from other test runner and frameworks to Jest.
+- [@putout/plugin-jest](https://github.com/coderaiser/putout/blob/master/packages/plugin-jest/README.md#putoutplugin-jest-) 🐊Putout plugin helps to migrate to latest Jest API.
 
 ### Library extensions
 
