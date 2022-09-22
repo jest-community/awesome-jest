@@ -99,6 +99,7 @@
 
 - [jest-it-up](https://github.com/rbardini/jest-it-up) Automatically bump up global thresholds whenever coverage goes above them.
 - [jest-coverage-thresholds-bumper](https://github.com/Litee/jest-coverage-thresholds-bumper) Similar to `jest-it-up`, but allows to specify where coverage summary is located, supports Jest config in JSON files and `package.json`.
+- [jest-a-coverage-slip-detector](https://github.com/GetJobber/jest-a-coverage-slip-detector) Designed for parallelized CI, prevents test coverage from slipping. Features include per-file ratcheting, automatic coverage merging, and custom messages.
 
 ### Snapshot
 
