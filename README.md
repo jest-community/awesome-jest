@@ -30,14 +30,14 @@
 
 - [jest-extended](https://github.com/jest-community/jest-extended) Adds additional matchers to core API making it easy to test everything.
 - [expect-more](https://github.com/JamieMason/expect-more/tree/master/packages/expect-more-jest) A huge library of test matchers for a range of common use-cases.
-- [jest-axe](https://github.com/nickcolley/jest-axe) Custom Jest matcher for [axe](https://github.com/dequelabs/axe-core) for testing accessibility.
+- [jest-axe](https://github.com/nickcolley/jest-axe) Jest matcher for [axe](https://github.com/dequelabs/axe-core) for testing accessibility.
 - [jest-enzyme](https://github.com/FormidableLabs/enzyme-matchers/tree/master/packages/jest-enzyme) An assertion library for enzyme.
 - [jest-json-schema](https://github.com/americanexpress/jest-json-schema) JSON schema matcher.
 - [expect-puppeteer](https://github.com/smooth-code/jest-puppeteer/tree/master/packages/expect-puppeteer) Collection of matchers for Jest & Puppeteer.
-- [jest-dom](https://github.com/gnapse/jest-dom) Custom Jest matchers to test the dom structure.
+- [@testing-library/jest-dom](https://github.com/testing-library/jest-dom) Jest matchers to test the state of the DOM.
 - [jest-generator](https://github.com/doniyor2109/jest-generator) Jest matcher for testing generator function.
 - [jest-shell-matchers](https://github.com/raingerber/jest-shell-matchers) Test shell scripts while mocking specific commands.
-- [jest-emotion](https://github.com/emotion-js/emotion/tree/master/packages/jest-emotion) Jest matcher for testing Emotion components.
+- [@emotion/jest](https://github.com/emotion-js/emotion/tree/main/packages/jest) Jest matcher for testing Emotion components.
 - [jest-openapi](https://github.com/openapi-library/OpenAPIValidators/tree/master/packages/jest-openapi) Jest matchers for asserting that HTTP responses satisfy an [OpenAPI](https://swagger.io/docs/specification/about) spec.
 - [jest-json](https://github.com/duailibe/jest-json) Jest matchers to assert on JSON strings.
 - [@testing-library/jest-native](https://github.com/testing-library/jest-native) Jest matchers to test the state of React Native.
