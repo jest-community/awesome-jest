@@ -40,6 +40,7 @@
 - [jest-emotion](https://github.com/emotion-js/emotion/tree/master/packages/jest-emotion) Jest matcher for testing Emotion components.
 - [jest-openapi](https://github.com/openapi-library/OpenAPIValidators/tree/master/packages/jest-openapi) Jest matchers for asserting that HTTP responses satisfy an [OpenAPI](https://swagger.io/docs/specification/about) spec.
 - [jest-json](https://github.com/duailibe/jest-json) Jest matchers to assert on JSON strings.
+- [jest-native](https://github.com/testing-library/jest-native) Jest matchers to test the state of React Native.
 
 ### IDE
 
