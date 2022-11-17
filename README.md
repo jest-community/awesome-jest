@@ -88,6 +88,7 @@
 - [jest-dashboard](https://github.com/theoutlander/jest-dashboard) Command line dashboard.
 - [testrail-jest-reporter](https://github.com/AntonChaukin/testrail-jest-reporter) Report jest test results to TestRail.
 - [jest-tesults-reporter](https://github.com/tesults/jest-tesults-reporter) Submits test results data to Tesults for analysis and reporting.
+- [github-actions-jest-reporter](https://github.com/MatteoH2O1999/github-actions-jest-reporter) Reports jest test results using Github Actions groups, allowing for an easy navigation of the test logs.
 
 ### Results Processors
 
