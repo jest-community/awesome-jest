@@ -152,6 +152,7 @@
 - [jest-mock-extended](https://github.com/marchaos/jest-mock-extended) Create Typesafe mocks for TS interfaces and objects as well as returning argument specific return values.
 - [jest-wake-lock-mock](https://github.com/jorisre/jest-wake-lock-mock) Mock Screen Wake Lock API `navigator.wakeLock` with ease and run your tests using Jest.
 - [jest-location-mock](https://github.com/evelynhathaway/jest-location-mock) Mock `window.location` easily.
+- [@automock/jest](https://github.com/omermorad/automock) Class dependencies auto-mocking.
 
 ### Watch plugins
 
