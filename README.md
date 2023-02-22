@@ -41,6 +41,7 @@
 - [jest-openapi](https://github.com/openapi-library/OpenAPIValidators/tree/master/packages/jest-openapi) Jest matchers for asserting that HTTP responses satisfy an [OpenAPI](https://swagger.io/docs/specification/about) spec.
 - [jest-json](https://github.com/duailibe/jest-json) Jest matchers to assert on JSON strings.
 - [@testing-library/jest-native](https://github.com/testing-library/jest-native) Jest matchers to test the state of React Native.
+- [@traceloop/jest-opentelemetry](https://github.com/traceloop/jest-opentelemetry) Collection of matchers and runner for end to end tests with Jest & OpenTelemetry.
 
 ### IDE
 
