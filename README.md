@@ -195,6 +195,7 @@
 ### Generators
 
 - [jest-test-gen](https://github.com/egm0121/jest-test-gen) CLI tool to generate a test file with test scaffold for every class method or function exported.
+- [text2jest](https://www.text2jest.com/) A web-based tool to instantly convert a nested list of plain text test names into a Jest file.
 
 ### Debug
 
