@@ -120,7 +120,7 @@
 - [jest-large-snapshot-warning](https://github.com/jomaxx/jest-large-snapshot-warning) Add warnings to large snapshots.
 - [jest-serializer-react-helmet](https://github.com/keplersj/jest-serializer-react-helmet) Include React Helmet data in component snapshots.
 - [jest-serializer-json-ld-script](https://github.com/keplersj/jest-serializer-json-ld-script) Serializes JSON+LD elements as JavaScript objects.
-- [jest-emotion](https://github.com/emotion-js/emotion/tree/master/packages/jest-emotion) Include Emotion styles in component snapshots.
+- [@emotion/jest](https://github.com/emotion-js/emotion/tree/main/packages/jest) Include Emotion styles in component snapshots.
 - [jest-serializer-xml](https://github.com/keplersj/jest-serializer-xml) Format XML documents to better visualize in Snapshots.
 - [1log](https://github.com/ivan7237d/1log) Extensible logger that allows capturing log messages as snapshots.
 - [jest-serializer-ansi-escapes](https://github.com/mrazauskas/jest-serializer-ansi-escapes) Snapshot serializer for ANSI escape sequences.
