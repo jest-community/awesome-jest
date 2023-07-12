@@ -144,6 +144,7 @@
 - [jest-plugin-must-assert](https://github.com/ballercat/jest-plugin-must-assert) A Jest plugin for strict runtime checks. Fails any tests without assertions and prevents async tasks (Promises & timeouts) from leaking across tests.
 - [wait-for-expect](https://github.com/TheBrainFamily/wait-for-expect) A await/async function to wait a expect. Useful on e2e test.
 - [jest-os-detection](https://github.com/doctolib/jest-os-detection) Dynamically enable or skip tests based on the OS they run on so you can share the same test suite across various platforms.
+- [@fast-check/jest](https://github.com/dubzzz/fast-check/tree/main/packages/jest) Bring property based testing (aka fuzzing) into Jest.
 
 ### Mocks
 
