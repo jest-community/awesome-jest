@@ -91,6 +91,7 @@
 - [jest-tesults-reporter](https://github.com/tesults/jest-tesults-reporter) Submits test results data to Tesults for analysis and reporting.
 - [github-actions-jest-reporter](https://github.com/MatteoH2O1999/github-actions-jest-reporter) Reports jest test results using Github Actions groups, allowing for an easy navigation of the test logs.
 - [jest-ado-reporter](https://github.com/bashaus/jest-ado-reporter) Reports jest test suite progress information to the pipeline step in Azure DevOps.
+- [jest-ci-spec-reporter](https://github.com/robertbradleyux/jest-ci-spec-reporter) Zero dependency spec reporter with CI-friendly output.
 
 ### Results Processors
 
