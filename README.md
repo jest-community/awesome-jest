@@ -146,6 +146,7 @@
 - [wait-for-expect](https://github.com/TheBrainFamily/wait-for-expect) A await/async function to wait a expect. Useful on e2e test.
 - [jest-os-detection](https://github.com/doctolib/jest-os-detection) Dynamically enable or skip tests based on the OS they run on so you can share the same test suite across various platforms.
 - [@fast-check/jest](https://github.com/dubzzz/fast-check/tree/main/packages/jest) Bring property based testing (aka fuzzing) into Jest.
+- [jest-fail-on-console](https://github.com/ValentinH/jest-fail-on-console) Utility to fail a test when `console.error()` (or any other method of the console) gets called.
 
 ### Mocks
 
