@@ -94,6 +94,7 @@
 - [jest-ci-spec-reporter](https://github.com/robertbradleyux/jest-ci-spec-reporter) Zero dependency spec reporter with CI-friendly output.
 - [jest-angular-test-verifier](https://github.com/Neizan93/jest-angular-test-verifier) Ensures that essential Angular files have corresponding test files, reporting any missed opportunities and celebrating when all is well.
 - [jest-slow-test-highlighter](https://github.com/Neizan93/jest-slow-test-highlighter) Highlights and reports the slowest tests in your suite, helping you identify areas for performance optimization.
+- [jest-wip-reporter](https://github.com/kevinrutherford/jest-wip-reporter) Classifies all tests as either passing, failing, or work-in-progress; also quiet progress reporting with dots by default.
 
 ### Results Processors
 
