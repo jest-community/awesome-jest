@@ -200,6 +200,7 @@
 - [jest-puppeteer](https://github.com/smooth-code/jest-puppeteer) A Jest preset that enables a ready-to-use environment to write integration tests using Puppeteer.
 - [jest-preset-angular](https://github.com/thymikee/jest-preset-angular) Jest preset for [Angular](https://angular.io) projects.
 - [jest-preset-gatsby](https://github.com/keplersj/jest-preset-gatsby) Jest preset to streamline unit testing a Gatsby project.
+- [jest-search](https://github.com/geek-fun/jest-search) Jest preset for working with customisable version of OpenSearch, ElasticSearch and ZincSearch.
 
 ### Generators
 
