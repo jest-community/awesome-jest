@@ -88,16 +88,16 @@
 - [jest-email-reporter](https://github.com/tglink/jest-email-reporter) Reporter for jest test errors by e-mail.
 - [jest-dashboard](https://github.com/theoutlander/jest-dashboard) Command line dashboard.
 - [testrail-jest-reporter](https://github.com/AntonChaukin/testrail-jest-reporter) Report jest test results to TestRail.
-- [testomatio-jest-reporter](https://github.com/testomatio/reporter/blob/master/docs/frameworks.md#Jest) Allows to analyze Jest autotests, collect test metadata and report them to the testomat.io TCM system.
 - [jest-tesults-reporter](https://github.com/tesults/jest-tesults-reporter) Submits test results data to Tesults for analysis and reporting.
 - [github-actions-jest-reporter](https://github.com/MatteoH2O1999/github-actions-jest-reporter) Reports jest test results using Github Actions groups, allowing for an easy navigation of the test logs.
-- [GitHub Pipe](https://github.com/testomatio/reporter/blob/master/docs/pipes/github.md) Simple reporting and analytics for GithubAction runs.
 - [jest-ado-reporter](https://github.com/bashaus/jest-ado-reporter) Reports jest test suite progress information to the pipeline step in Azure DevOps.
 - [jest-ci-spec-reporter](https://github.com/robertbradleyux/jest-ci-spec-reporter) Zero dependency spec reporter with CI-friendly output.
 - [jest-angular-test-verifier](https://github.com/Neizan93/jest-angular-test-verifier) Ensures that essential Angular files have corresponding test files, reporting any missed opportunities and celebrating when all is well.
 - [jest-slow-test-highlighter](https://github.com/Neizan93/jest-slow-test-highlighter) Highlights and reports the slowest tests in your suite, helping you identify areas for performance optimization.
 - [jest-wip-reporter](https://github.com/kevinrutherford/jest-wip-reporter) Classifies all tests as either passing, failing, or work-in-progress; also quiet progress reporting with dots by default.
 - [@tsdoc-test-reporter/jest](https://github.com/tsdoc-test-reporter/reporter) A reporter that attaches JS/TSDoc comments to your test results and generates a summary in HTML or JSON.
+- [testomatio-jest-reporter](https://github.com/testomatio/reporter/blob/master/docs/frameworks.md#Jest) Allows to analyze Jest autotests, collect test metadata and report them to the testomat.io TCM system.
+- [GitHub Pipe](https://github.com/testomatio/reporter/blob/master/docs/pipes/github.md) Simple reporting and analytics for GithubAction runs.
 
 ### Results Processors
 
