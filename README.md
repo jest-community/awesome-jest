@@ -97,6 +97,7 @@
 - [jest-slow-test-highlighter](https://github.com/Neizan93/jest-slow-test-highlighter) Highlights and reports the slowest tests in your suite, helping you identify areas for performance optimization.
 - [jest-wip-reporter](https://github.com/kevinrutherford/jest-wip-reporter) Classifies all tests as either passing, failing, or work-in-progress; also quiet progress reporting with dots by default.
 - [@tsdoc-test-reporter/jest](https://github.com/tsdoc-test-reporter/reporter) A reporter that attaches JS/TSDoc comments to your test results and generates a summary in HTML or JSON.
+- [testomatio-jest-reporter](https://github.com/testomatio/reporter/blob/master/docs/frameworks.md#Jest) Allows to analyze Jest autotests, collect test metadata and report them to the testomat.io TCM system.
 
 ### Results Processors
 
