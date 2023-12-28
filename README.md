@@ -98,6 +98,7 @@
 - [jest-wip-reporter](https://github.com/kevinrutherford/jest-wip-reporter) Classifies all tests as either passing, failing, or work-in-progress; also quiet progress reporting with dots by default.
 - [@tsdoc-test-reporter/jest](https://github.com/tsdoc-test-reporter/reporter) A reporter that attaches JS/TSDoc comments to your test results and generates a summary in HTML or JSON.
 - [testomatio-jest-reporter](https://github.com/testomatio/reporter/blob/master/docs/frameworks.md#Jest) Allows to analyze Jest autotests, collect test metadata and report them to the testomat.io TCM system.
+- [jest-console-group-reporter](https://github.com/Ashvin-Pal/jest-console-group-reporter) Automatically groups console messages, allows filtering, and provides flexible display configuration options.
 
 ### Results Processors
 
