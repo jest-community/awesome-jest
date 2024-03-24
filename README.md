@@ -167,6 +167,7 @@
 - [jest-location-mock](https://github.com/evelynhathaway/jest-location-mock) Mock `window.location` easily.
 - [@automock/jest](https://github.com/omermorad/automock) Class dependencies auto-mocking.
 - [@jest-mock/express](https://github.com/bikk-uk/jest-mock-express) Mock Express.js request and response objects.
+- [jest-random-mock](https://github.com/hustcc/jest-random-mock) Mock `Math.random` in jest, with deterministic random number.
 
 ### Watch plugins
 
