@@ -194,6 +194,7 @@
 - [jest-raw-loader](https://github.com/keplersj/jest-raw-loader) Processor mimicking `webpack`'s `raw-loader`.
 - [jest-less-loader](https://github.com/hustcc/jest-less-loader) Jest transformer for `.less` file.
 - [jest-url-loader](https://github.com/hustcc/jest-url-loader) Similar with webpack's `url-loader` for Jest transformer.
+- [jest-dot-http-files](https://github.com/andreventuravale/jest-dot-http-files) Jest transformer for .http files.
 
 ### Presets
 
