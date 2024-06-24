@@ -100,6 +100,7 @@
 - [testomatio-jest-reporter](https://github.com/testomatio/reporter/blob/master/docs/frameworks.md#Jest) Allows to analyze Jest autotests, collect test metadata and report them to the testomat.io TCM system.
 - [jest-console-group-reporter](https://github.com/Ashvin-Pal/jest-console-group-reporter) Automatically groups console messages, allows filtering, and provides flexible display configuration options.
 - [echoed](https://github.com/mrasu/echoed) Makes tests observable by reporting OpenTelemetry data.
+- [jest-ctrf-json-reporter](https://github.com/ctrf-io/jest-ctrf-json-reporter) CTRF is a universal JSON test results report schema that provides a standardized format for JSON test reports.
 
 ### Results Processors
 
