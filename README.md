@@ -83,7 +83,7 @@
 - [jest-performance-reporter](https://github.com/sholzmayer/jest-performance-reporter) Identify slow tests and create a report including execution times.
 - [jest-progress-bar-reporter](https://github.com/pierreroth64/jest-progress-bar-reporter) Simple reporter with a little progressbar.
 - [jest-html-reporters](https://github.com/Hazyzh/jest-html-reporters) A Jest test results processor for generating a summary in HTML.
-- [jest-allure](https://github.com/zaqqaz/jest-allure) Add more power to your tests using Jest-Allure with very concise representation of what has been tested in a neat web report form.
+- [allure-jest](https://github.com/allure-framework/allure-js/tree/main/packages/allure-jest) Add more power to your tests using Allure Report with very concise representation of what has been tested in a neat web report form.
 - [jest-standard-reporter](https://github.com/chrisgalvan/jest-standard-reporter) Reporter that uses stdout for messages and stderr for errors.
 - [jest-github-reporter](https://github.com/hipstersmoothie/jest-github-reporter) Report jest test errors directly in pull requests.
 - [jest-email-reporter](https://github.com/tglink/jest-email-reporter) Reporter for jest test errors by e-mail.
