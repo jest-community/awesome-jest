@@ -109,6 +109,7 @@
 
 - [jest-environment-webdriver](https://github.com/alexeyraspopov/jest-webdriver) custom environment for WebDriver integration.
 - [jest-environment-puppeteer](https://github.com/smooth-code/jest-puppeteer/tree/master/packages/jest-environment-puppeteer) Puppeteer environment for Jest.
+- [jest-doctor](https://github.com/stephan-dum/jest-doctor/tree/main/packages/jest-doctor) Async leak detection and preventions.
 
 ### Coverage
 
