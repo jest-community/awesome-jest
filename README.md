@@ -40,7 +40,6 @@
 - [@emotion/jest](https://github.com/emotion-js/emotion/tree/main/packages/jest) Jest matcher for testing Emotion components.
 - [jest-openapi](https://github.com/openapi-library/OpenAPIValidators/tree/master/packages/jest-openapi) Jest matchers for asserting that HTTP responses satisfy an [OpenAPI](https://swagger.io/docs/specification/about) spec.
 - [jest-json](https://github.com/duailibe/jest-json) Jest matchers to assert on JSON strings.
-- [@testing-library/jest-native](https://github.com/testing-library/jest-native) Jest matchers to test the state of React Native.
 - [@traceloop/jest-opentelemetry](https://github.com/traceloop/jest-opentelemetry) Collection of matchers and runner for end to end tests with Jest & OpenTelemetry.
 
 ### IDE
@@ -127,7 +126,6 @@
 - [jest-img-snapshot](https://github.com/donysukardi/jest-img-snapshot) Image snapshot comparison using pixelmatch with all Jest's snapshot goodies out of the box.
 - [jest-file-snapshot](https://github.com/satya164/jest-file-snapshot) Write snapshots to a separate file instead of the default snapshot file used by Jest.
 - [Differencify](https://github.com/NimaSoroush/differencify) Visual regression testing tool using Jest and Puppeteer to do Image snapshot comparison.
-- [StoryShots](https://github.com/storybooks/storybook/tree/master/addons/storyshots/storyshots-core) StoryShots adds automatic Jest Snapshot Testing for Storybook.
 - [jest-large-snapshot-warning](https://github.com/jomaxx/jest-large-snapshot-warning) Add warnings to large snapshots.
 - [jest-serializer-react-helmet](https://github.com/keplersj/jest-serializer-react-helmet) Include React Helmet data in component snapshots.
 - [jest-serializer-json-ld-script](https://github.com/keplersj/jest-serializer-json-ld-script) Serializes JSON+LD elements as JavaScript objects.
@@ -149,8 +147,7 @@
 - [typescript-snapshots-plugin](https://github.com/asvetliakov/typescript-snapshots-plugin) Extends the TypeScript dev server to support hovering and jumping to a snapshot.
 - [jest-chain](https://github.com/mattphillips/jest-chain) Chain Jest matchers together to create one powerful assertion.
 - [jest-expect-message](https://github.com/mattphillips/jest-expect-message) Add custom message to Jest expects.
-- [@bigtest/interactor](https://frontside.com/bigtest/interactors) A testing and assertion library that makes it easy to test UIs at scale while keeping accessibility at the core.
-- [@testdeck/jest](https://github.com/testdeck/testdeck) Decorator based wrapper around Jest for object oriented testing. Checkout the [documentation](https://testdeck.org) and a working [seed](https://github.com/testdeck/testdeck-jest-seed) for you to start with.
+- [@testdeck/jest](https://github.com/testdeck/testdeck) Decorator based wrapper around Jest for object oriented testing. Checkout the [documentation](https://testdeck.github.io/docs/) and a working [seed](https://github.com/testdeck/testdeck-jest-seed) for you to start with.
 - [jest-plugin-must-assert](https://github.com/ballercat/jest-plugin-must-assert) A Jest plugin for strict runtime checks. Fails any tests without assertions and prevents async tasks (Promises & timeouts) from leaking across tests.
 - [wait-for-expect](https://github.com/TheBrainFamily/wait-for-expect) A await/async function to wait a expect. Useful on e2e test.
 - [jest-os-detection](https://github.com/doctolib/jest-os-detection) Dynamically enable or skip tests based on the OS they run on so you can share the same test suite across various platforms.
@@ -159,7 +156,7 @@
 
 ### Mocks
 
-- [jest-fetch-mock](https://github.com/jefflau/jest-fetch-mock) Easily mock out `fetch` and set up responses, powered by [Jest mock functions](https://facebook.github.io/jest/docs/en/mock-functions.html).
+- [jest-fetch-mock](https://github.com/jefflau/jest-fetch-mock) Easily mock out `fetch` and set up responses, powered by [Jest mock functions](https://jestjs.io/docs/mock-functions).
 - [jest-canvas-mock](https://github.com/hustcc/jest-canvas-mock) Mock canvas when run unit test cases with jest.
 - [jest-localstorage-mock](https://github.com/clarkbw/jest-localstorage-mock) A module to mock window.localStorage and window.sessionStorage in Jest.
 - [jest-date-mock](https://github.com/hustcc/jest-date-mock) Mock `window.Date` when run unit test cases with jest. Make tests of Date easier.
