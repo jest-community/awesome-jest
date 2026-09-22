@@ -109,6 +109,8 @@
 - [jest-environment-webdriver](https://github.com/alexeyraspopov/jest-webdriver) custom environment for WebDriver integration.
 - [jest-environment-puppeteer](https://github.com/smooth-code/jest-puppeteer/tree/master/packages/jest-environment-puppeteer) Puppeteer environment for Jest.
 - [jest-doctor](https://github.com/stephan-dum/jest-doctor/tree/main/packages/jest-doctor) Async leak detection and preventions.
+- [jest-environment-webgl-node](https://github.com/bhouston/jest-gpu/tree/main/packages/jest-environment-webgl-node) Headless WebGL 1/2 environment for Jest, backed by ANGLE.
+- [jest-environment-webgpu-node](https://github.com/bhouston/jest-gpu/tree/main/packages/jest-environment-webgpu-node) Headless WebGPU environment for Jest, backed by Dawn.
 
 ### Coverage
 
