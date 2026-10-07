@@ -1,0 +1,7 @@
+{
+  "name": "awesome-jest",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:1-22-bookworm",
+  "features": {
+    "ghcr.io/devcontainers/features/github-cli:1": {}
+  }
+}
