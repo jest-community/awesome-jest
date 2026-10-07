@@ -166,7 +166,7 @@
 - [jest-wake-lock-mock](https://github.com/jorisre/jest-wake-lock-mock) Mock Screen Wake Lock API `navigator.wakeLock` with ease and run your tests using Jest.
 - [jest-location-mock](https://github.com/evelynhathaway/jest-location-mock) Mock `window.location` easily.
 - [@jest-mock/express](https://github.com/bikk-uk/jest-mock-express) Mock Express.js request and response objects.
-- [Suites](https://github.com/suites-dev/suites) Unit-testing framework for TypeScript backends with inversion of control and dependency injection that automatically generates type-safe mocks.
+- [Suites](https://github.com/suites-dev/suites) Unit testing framework for TypeScript backends working with inversion of control (IoC) and dependency injection frameworks.
 
 ### Watch plugins
 
