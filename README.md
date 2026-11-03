@@ -99,6 +99,7 @@
 - [testomatio-jest-reporter](https://github.com/testomatio/reporter/blob/master/docs/frameworks.md#Jest) Allows to analyze Jest autotests, collect test metadata and report them to the testomat.io TCM system.
 - [jest-console-group-reporter](https://github.com/Ashvin-Pal/jest-console-group-reporter) Automatically groups console messages, allows filtering, and provides flexible display configuration options.
 - [echoed](https://github.com/mrasu/echoed) Makes tests observable by reporting OpenTelemetry data.
+- [jest-qase-reporter](https://github.com/qase-tms/qase-javascript/tree/main/qase-jest) Reports test results to Qase test management, linking automated runs to test cases.
 
 ### Results Processors
 
